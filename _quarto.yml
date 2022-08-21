@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Epinowcast"
+  site-url: https://epinowcast.org
+  description: "Epinowcast community site"
+  comments:
+    giscus:
+      repo: epinowcast/epinowcast.github.io
+      category: 'Website discussions'
+      mapping: title
+      reactions-enabled: true
+  navbar:
+    left:
+      - text: "Package"
+      - href: "https://package.epinowcast.org"
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Learn"
+        href: learn.qmd
+      - text: "Help"
+        href: help.qmd
+      - text: "Contribute"
+        href: contribute.qmd
+      - text: "Community"
+        href: "https://community.epinowcast.org"
+    right:
+      - icon: github
+        href: https://github.com/epinowcast/epinowcast.github.io
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    link-external-icon: true
+    link-external-newwindow: true
