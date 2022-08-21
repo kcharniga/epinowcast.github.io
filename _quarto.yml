@@ -11,10 +11,11 @@ website:
       category: 'Website discussions'
       mapping: title
       reactions-enabled: true
+      open-graph: true
   navbar:
     left:
       - text: "Package"
-      - href: "https://package.epinowcast.org"
+        href: "https://package.epinowcast.org"
       - text: "Blog"
         href: blog.qmd
       - text: "Learn"

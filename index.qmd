@@ -3,6 +3,7 @@ title: "Epinowcast"
 description: |
   Flexible hierarchical nowcasting
 site: distill::distill_website
+comments: false
 ---
 
 ```{r setup, include=FALSE}
