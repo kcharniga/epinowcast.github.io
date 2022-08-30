@@ -13,7 +13,7 @@ Answering questions can be time-consuming so making your question as easy as pos
 
 For questions related to code this is why the first step is to create an easy to folloe reproducible example (or reprex). This can be a challenge but luckily there is a helpful package `reprex` to give you a hand. To get you started check out [the great help page from the tidyverse](https://www.tidyverse.org/help/#reprex) and this [nice issue](https://github.com/epinowcast/epinowcast/issues/148) from Ryan Teo which explores a bug he found with the `epinowcast` R package.
 
-For questions related to theory or interpretation try to ask your question as clearly as possible. After writing it out review what you have written in order to check it is as easy to understand as possible
+For questions related to theory or interpretation try to ask your question as clearly as possible. After writing it out review what you have written in order to check it is as easy to understand as possible.
 
 
 # Where to ask
