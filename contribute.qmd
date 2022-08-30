@@ -1,5 +1,5 @@
 ---
-title: "Contribute to epinowcast"
+title: "Contribute to Epinowcast"
 comments: false
 ---
 
