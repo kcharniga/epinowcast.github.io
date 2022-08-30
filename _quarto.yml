@@ -16,16 +16,16 @@ website:
     left:
       - text: "Package"
         href: "https://package.epinowcast.org"
+      - text: "Community"
+        href: "https://community.epinowcast.org"
       - text: "Blog"
         href: blog.qmd
-      - text: "Learn"
-        href: learn.qmd
       - text: "Help"
         href: help.qmd
       - text: "Contribute"
         href: contribute.qmd
-      - text: "Community"
-        href: "https://community.epinowcast.org"
+      - text: "Funding"
+        href: funding.qmd
     right:
       - icon: github
         href: https://github.com/epinowcast/epinowcast.github.io

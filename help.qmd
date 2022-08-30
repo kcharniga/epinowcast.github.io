@@ -1,4 +1,27 @@
 ---
-title: "Help"
+title: "Getting help"
 comments: false
 ---
+
+Real-time infectious disease modelling can be challenging and we often need to produce results on a short timeline. Whislt we have tried to make our tooling as easy to use as possible there will inevitably be times when there are issues or even mistakes.
+
+Luckily as a community we are keen to help so don't worry about reaching out. Below are some tips on how to do this effectively and where to ask.
+
+# How to ask a question
+
+Answering questions can be time-consuming so making your question as easy as possible to understand is key. 
+
+For questions related to code this is why the first step is to create an easy to folloe reproducible example (or reprex). This can be a challenge but luckily there is a helpful package `reprex` to give you a hand. To get you started check out [the great help page from the tidyverse](https://www.tidyverse.org/help/#reprex) and this [nice issue](https://github.com/epinowcast/epinowcast/issues/148) from Ryan Teo which explores a bug he found with the `epinowcast` R package.
+
+For questions related to theory or interpretation try to ask your question as clearly as possible. After writing it out review what you have written in order to check it is as easy to understand as possible
+
+
+# Where to ask
+
+Now you have your question in hand what do you do with it? Here are some options:
+
+- [community.epinowcast.org](https://community.epinowcast.org/) This is a warm and welcoming place to ask questions, introduce yourself as a new community member, and discuss advances in the literature, other tools that are available, and potential use cases for real-time analysis methods.
+
+- We run a community Twitter account [@epinowcast](https://twitter.com/epinowcast) which will retweet questions asked on Twitter to our community. They are very nice as are their friends.
+
+- If you think you have found a bug, please follow the instructions on [contributing to the community](https://www.epinowcast.org/contribute/).

@@ -1,0 +1,13 @@
+---
+title: "How are we funded"
+comments: false
+---
+
+This pages highlights funding we have recieved as a community as well as funding supporting our contributors. If you have made contributions suported by a funding source please add to this list.
+
+# Current funding
+
+## Contributors
+
+Sam Abbott and Sebastian Funk are supported by a **Wellcome Trust** Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z).
+

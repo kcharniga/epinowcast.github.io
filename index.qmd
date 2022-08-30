@@ -1,7 +1,5 @@
 ---
-title: "Epinowcast"
-description: |
-  Flexible hierarchical nowcasting
+title: "Welcome to the Epinowcast community"
 site: distill::distill_website
 comments: false
 ---
@@ -9,3 +7,9 @@ comments: false
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+We are a community of infectious disease modellers, applied epidemiologists, software developers, and others building a suite of tools for real-time analysis of infectious diseases. On top of developing these tools, we also do research on when they work and when they don't, write case studies to showcase best practices, support users and decision-makers, and compare our work to that of others.
+
+We strongly believe that the challenges we face in the real-time analysis of infectious disease can only be overcome as a community collaboration.
+
+We are still in the early stages of building our community so now is a great time to jump in.
