@@ -5,6 +5,7 @@ website:
   title: "Epinowcast"
   site-url: https://epinowcast.org
   description: "Epinowcast community site"
+  image: images/logo.png
   twitter-card:
     creator: "@seabbs"
     site: "@epinowcast"

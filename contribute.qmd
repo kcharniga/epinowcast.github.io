@@ -5,7 +5,7 @@ comments: false
 
 We strongly believe that the challenges we face in the real-time analysis of infectious disease can only be overcome as a community.
 
-As a community we can only function with contributions from our members. No matter your skills or background contributions are welome.
+We can only function with contributions from our members. No matter your skills or background contributions are welome.
 
 ## Take part in community discussions
 
