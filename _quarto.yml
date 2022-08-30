@@ -5,6 +5,11 @@ website:
   title: "Epinowcast"
   site-url: https://epinowcast.org
   description: "Epinowcast community site"
+  twitter-card:
+    creator: "@seabbs"
+    site: "@epinowcast"
+  favicon: images/favicon-32x32.png
+  open-graph: true
   comments:
     giscus:
       repo: epinowcast/epinowcast.github.io
