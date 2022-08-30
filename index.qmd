@@ -5,6 +5,7 @@ comments: false
 about:
   template: broadside
   image: images/logo.png
+  image-width: 10em
   links:
     - icon: comment
       text: Community
