@@ -7,30 +7,30 @@ We strongly believe that the challenges we face in the real-time analysis of inf
 
 As a community we can only function with contributions from our members. No matter your skills or background contributions are welome.
 
-# Take part in community discussions
+## Take part in community discussions
 
 The easiest way to be involved is to show up to community meetings, join in community discussions, for example questions related to user experiences, ask questions, and let others know if you are working on similar problems. Join [community.epinowcast.org](https://community.epinowcast.org/) to get started.
 
-# Answer questions
+## Answer questions
 
 The next step is consider answering questions related to your expertise. This could be helping out with using our tools or it could be domain expertise you can share with others. Remeber we are a caring community and some people asking questions may not know best practices. Try to be friendly and considerate. If you think it might help consider pointing new question askers to our [help](https://www.epinowcast.org/help/) page. 
 
-# File issues
+## File issues
 
 If you've found a bug, first create a minimal [reprex](https://www.epinowcast.org/help/). Make sure to spend time making it as easy to understand as possible. Then file it on the GitHub repository for the package.
 
-# Contribute documentation
+## Contribute documentation
 
 If you are a bit more experienced, and ready to make pull request, then expanding or improving our documentation is very helpful. The key to adding documentation is that we use the [`roxygen2`](https://roxygen2.r-lib.org/) package when documenting R code. This means that documentation is found alongside the R code and there are some special tags.
 
-# Contribute code
+## Contribute code
 
 If you are more experienced, you might want to help with package development. The first step to making code contributions is to make an issue or comment on the issue you plan to address. When implementing your contribution remember to follow the package conventions.
 
-# Contribute methodology
+## Contribute methodology
 
 As a research community, we are interested in improving the underlying basis of our tools and methods. If you have a suggestion for a methodological improvement, or an extension please share it with our [community as a project proposal](https://community.epinowcast.org/c/project-proposals/).
 
-# Contribute evaluations and case studies
+## Contribute evaluations and case studies
 
 Our tools and methods are designed to be flexible. We don't know what the best models are for different types of question. If you have an evaluation of our methods or a case study implementing them we would be keen to see them and this will likely help others as well as informing future developments. Share these with our community [here](https://community.epinowcast.org/c/projects/) and [here](https://community.epinowcast.org/c/publicity/).

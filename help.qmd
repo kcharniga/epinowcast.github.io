@@ -7,7 +7,7 @@ Real-time infectious disease modelling can be challenging and we often need to p
 
 Luckily as a community we are keen to help so don't worry about reaching out. Below are some tips on how to do this effectively and where to ask.
 
-# How to ask a question
+## How to ask a question
 
 Answering questions can be time-consuming so making your question as easy as possible to understand is key. 
 
@@ -16,7 +16,7 @@ For questions related to code this is why the first step is to create an easy to
 For questions related to theory or interpretation try to ask your question as clearly as possible. After writing it out review what you have written in order to check it is as easy to understand as possible.
 
 
-# Where to ask
+## Where to ask
 
 Now you have your question in hand what do you do with it? Here are some options:
 
