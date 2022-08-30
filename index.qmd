@@ -3,11 +3,12 @@ title: "Welcome to the Epinowcast community"
 site: distill::distill_website
 comments: false
 about:
-  template: broadside
-  image: images/logo.png
+  template: jolla
   image-width: 6em
+  image-shape: rectangle
+  image: images/logo.png
   links:
-    - icon: comment
+    - icon: chat-fill
       text: Community
       href: https://community.epinowcast.org/c/project-proposals/
     - icon: github
