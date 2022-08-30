@@ -3,7 +3,7 @@ title: "Getting help"
 comments: false
 ---
 
-Real-time infectious disease modelling can be challenging and we often need to produce results on a short timeline. Whislt we have tried to make our tooling as easy to use as possible there will inevitably be times when there are issues or even mistakes.
+Real-time infectious disease modelling can be challenging and we often need to produce results on a short timeline. Whilst we have tried to make our tooling as easy to use as possible there will inevitably be times when there are issues or even mistakes.
 
 Luckily as a community we are keen to help so don't worry about reaching out. Below are some tips on how to do this effectively and where to ask.
 
