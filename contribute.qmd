@@ -21,7 +21,7 @@ If you've found a bug, first create a minimal [reprex](https://www.epinowcast.or
 
 ## Contribute documentation
 
-If you are a bit more experienced, and ready to make pull request, then expanding or improving our documentation is very helpful. The key to adding documentation is that we use the [`roxygen2`](https://roxygen2.r-lib.org/) package when documenting R code. This means that documentation is found alongside the R code and there are some special tags.
+If you are a bit more experienced, and ready to make pull requests then expanding or improving our documentation is very helpful. The key to adding documentation is that we use the [`roxygen2`](https://roxygen2.r-lib.org/) package when documenting R code. This means that documentation is found alongside the R code and there are some special tags.
 
 ## Contribute code
 
@@ -29,8 +29,12 @@ If you are more experienced, you might want to help with package development. Th
 
 ## Contribute methodology
 
-As a research community, we are interested in improving the underlying basis of our tools and methods. If you have a suggestion for a methodological improvement, or an extension please share it with our [community as a project proposal](https://community.epinowcast.org/c/project-proposals/).
+As a research community, we are interested in improving the underlying basis of our tools and methods. If you have a suggestion for a methodological improvement, or an extension please share it with our community as a [project proposal](https://community.epinowcast.org/c/project-proposals/).
 
 ## Contribute evaluations and case studies
 
 Our tools and methods are designed to be flexible. We don't know what the best models are for different types of question. If you have an evaluation of our methods or a case study implementing them we would be keen to see them and this will likely help others as well as informing future developments. Share these with our community [here](https://community.epinowcast.org/c/projects/) and [here](https://community.epinowcast.org/c/publicity/).
+
+## Contribute alternatives
+
+The landscape of real-time infectious disease modelling is wide and we don't have all the answers. If you come across a method or tool that answers similar questions to those we target, you think will interest our community, or that is just in scope and you'd like to discuss  please share it [here](). If we get sufficient interest we are also keen on building a resource section to point communnity members to alternatives and other other resources they may find useful. If interested in taking this forward post [here](https://community.epinowcast.org/c/project-proposals/) with ideas.
