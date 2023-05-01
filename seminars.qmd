@@ -5,7 +5,6 @@ listing:
   type: table
   sort: date
   feed: true
-  sort-ui: false
   id: seminar-lists
 comments: false
 ---
