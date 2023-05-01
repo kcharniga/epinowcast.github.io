@@ -7,14 +7,7 @@ comments: false
 
 On Wednesday the 7th of June at 2pm UK time Katelyn Gostic will be introducing the new US CDC [Centre for Forecasting and Outbreak Analytics (CFA)](https://www.cdc.gov/forecast-outbreak-analytics/index.html). *More details to follow*
 
-Katelyn is the nowcasting and natural history team lead within the real-time analysis branch of the Predict arm of the new CFA centre. Prio to this McDonnell Foundation Complex Systems Postdoc after completing her PhD at UCLA. As a doctoral student, she studied immune imprinting, a pattern in which individuals retain particularly strong, lifelong immune memory of the influenza viruses encountered in childhood, sometimes at the expense of equally strong protection against strains encountered later in life.
-
-Now Katie studies the immune processes that allow such biases in immune memory to develop. Ultimately, her research aims to understand epidemiological outcomes as an emergent property of within-host immu Postdoc after completing her PhD at UCLA. As a doctoral student, she studied immune imprinting, a pattern in which individuals retain particularly strong, lifelong immune memory of the influenza viruses encountered in childhood, sometimes at the expense of equally strong protection against strains encountered later in life.
-
-Now Katie studies the immune processes that allow such biases in immune memory to develop. Ultimately, her research aims to understand epidemiological outcomes as an emergent property of within-host immu
-
-
-Kelly is a Prevention Effectiveness Fellow at the US CDC. Prior to this they conducted a PhD focussed on the 2014-2017 Zika and Chikungunya epidemics in Columbia using spatial interaction models to explore the spatial and temporal invasion dynamics of epidemics. Read more of Kelly's work [here](https://scholar.google.com/citations?user=OKbTKFUAAAAJ).
+Katelyn is the nowcasting and natural history team lead within the real-time analysis branch of the Predict arm of the new CFA centre. Prio to this they had a McDonnell Foundation Complex Systems Fellowship in the [Cobey lab](https://cobeylab.uchicago.edu/people/katie-gostic/) researching immune processes that allow such biases in immune memory to develop. They also took part in the US COVID-19 response including writing an influential paper ["Practical considerations for measuring the effective reproductive number"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008409). You can read more of Kateyln's work [here](https://scholar.google.com/citations?user=KWlW3kUAAAAJ).
 
 A recording of this talk will be posted to [our community site](https://community.epinowcast.org/c/meetings/8) a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.
 
