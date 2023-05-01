@@ -1,6 +1,7 @@
 ---
-title: "{epinowcast} 0.2.1 release"
+title: "epinowcast 0.2.1"
+author: Sam Abbott
 date: 2023-05-02
 draft: true
-comments: true
+comments: false
 ---
