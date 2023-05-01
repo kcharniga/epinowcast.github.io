@@ -2,6 +2,10 @@
 title: "epinowcast 0.2.1"
 author: Sam Abbott
 date: 2023-05-02
+categories:
+  - epinowcast
+  - releases
+  - packages
 draft: true
 comments: false
 ---
