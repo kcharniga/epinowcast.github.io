@@ -9,5 +9,12 @@ This pages highlights funding we have recieved as a community as well as funding
 
 ### Contributors
 
-Sam Abbott and Sebastian Funk are supported by a **Wellcome Trust** Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z).
+#### Current
 
+Sam Abbott is partially supported by the [CDC Center for Forecasting and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html) and a **Wellcome Trust** Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z).
+
+Sebastian Funk is supported by a **Wellcome Trust** Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z).
+
+#### Former
+
+From the start of the project (2021) to 2023 Sam Abbott was supported by a **Wellcome Trust** Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z).
