@@ -6,6 +6,7 @@ listing:
   sort: date
   feed: true
   id: seminar-lists
+  fields: [date, title]
 comments: false
 ---
 
