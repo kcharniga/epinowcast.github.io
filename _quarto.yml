@@ -19,10 +19,20 @@ website:
       reactions-enabled: true
   navbar:
     left:
-      - text: "Package"
-        href: "https://package.epinowcast.org"
+      - text: "Software"
+        menu:
+          - text: Our R universe
+            href: "https://epinowcast.r-universe.dev/packages"
+          - text: "{epinowcast}"
+            href:  "https://package.epinowcast.org"
       - text: "Community"
-        href: "https://community.epinowcast.org"
+        menu:
+        - text: Meetings
+          href: meetings.qmd
+        - text: Seminars
+          href: seminars.qmd
+        - text: "Forum"
+          href: "https://community.epinowcast.org"
       - text: "Blog"
         href: blog.qmd
       - text: "Help"
@@ -34,6 +44,8 @@ website:
     right:
       - icon: github
         href: https://github.com/epinowcast/epinowcast.github.io
+      - icon: rss
+        href: index.xml
 
 format:
   html:

@@ -1,0 +1,34 @@
+---
+title: "Real-time infectious disease modelling seminars"
+listing:
+  contents: seminars
+  type: table
+  sort: date
+  feed: true
+  sort-ui: false
+  id: seminar-lists
+comments: false
+---
+
+We run a monthly virtual seminar focussing on real-time modelling of infectious disease with the primary aim of connecting between different silos of knowledge (i.e. between mathematical modellers, statisticians, decision-makers, epidemiologists, and others).
+
+This takes place on the first Wednesday of every month at 2pm UK time with recordings posted a week later on [our community site](https://community.epinowcast.org/c/meetings/8) alongside any discussion of the seminar.
+
+We generally aim to fill the scheduled hour with talks ranging from 20-40 minutes followed by questions and community discussion.
+
+You can see a list of scheduled speakers [here](https://docs.google.com/spreadsheets/d/1OBkpxhiUPs0oXpmlUxlwhKfb3kBPaja7mUJlXXH3T60/edit#gid=0). If interested in speaking yourself, or in helping to organise this seminar series, please reach out to Sam Abbott or Felix Guenther (the current organisers).
+
+Please do attend if interested in the real-time modelling of infectious disease.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+## Upcoming and previous seminars
+
+::: {#seminar-lists}
+:::

@@ -1,0 +1,18 @@
+---
+title: "Community meetings"
+comments: false
+---
+
+We have a monthly virtual meeting where we discuss matters of interest to the community on the 3rd Wednesday of every month at 2pm UK time.
+
+These are generally informal affairs with a rating chiar and an agenda discussed before hand on our community site (in the [meetings category](https://community.epinowcast.org/c/meetings/8)).
+
+A typical meeting might include introductions for new attendees, discussions of recent community posts and projects, software development discussion related to a community package, an informal talk about a matter of interest, or just a general discussion. Please do attend if interested in the real-time modelling of infectious disease.
+
+## Connect to meetings
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join meetings directly  here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)

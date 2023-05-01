@@ -1,0 +1,22 @@
+---
+title: "Kelly Charniga - Nowcasting and Forecasting the 2022 U.S. Mpox Outbreak: Support for Public Health Decision Making and Lessons Learned"
+date: 2023-05-03
+comments: false
+---
+
+
+On Wednesday the 3rd of May at 2pm UK time Kelly Charniga will be walking through their experience of nowcasting and forecasting the 2022 US. Mpox outbreak and highlighting some lessons learnt. 
+
+Kelly is a Prevention Effectiveness Fellow at the US CDC. Prior to this they conducted a PhD focussed on the 2014-2017 Zika and Chikungunya epidemics in Columbia using spatial interaction models to explore the spatial and temporal invasion dynamics of epidemics. Read more of Kelly's work [here](https://scholar.google.com/citations?user=OKbTKFUAAAAJ).
+
+A recording of this talk will be posted to [our community site](https://community.epinowcast.org/t/community-seminar-2023-05-03-kelly-charniga-nowcasting-and-forecasting-the-2022-u-s-mpox-outbreak-support-for-public-health-decision-making-and-lessons-learned/146/1) a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously here.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+More details about this seminar series are available [here](../seminars.qmd).
