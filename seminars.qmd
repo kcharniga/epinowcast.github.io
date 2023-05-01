@@ -26,6 +26,8 @@ You can sign up for our event calendar here: [Google calendar ](https://calendar
 
 Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
 
+Or follow [this RSS feed](seminars.xml).
+
 Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
 
 ## Upcoming and previous seminars

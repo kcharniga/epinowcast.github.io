@@ -5,7 +5,7 @@ comments: false
 
 We have a monthly virtual meeting where we discuss matters of interest to the community on the 3rd Wednesday of every month at 2pm UK time.
 
-These are generally informal affairs with a rating chiar and an agenda discussed before hand on our community site (in the [meetings category](https://community.epinowcast.org/c/meetings/8)).
+These are generally informal affairs with a rotating chair and an agenda discussed beforehand on our community site (in the [meetings category](https://community.epinowcast.org/c/meetings/8)).
 
 A typical meeting might include introductions for new attendees, discussions of recent community posts and projects, software development discussion related to a community package, an informal talk about a matter of interest, or just a general discussion. Please do attend if interested in the real-time modelling of infectious disease.
 
