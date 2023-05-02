@@ -23,4 +23,4 @@ Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/
 
 Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
 
-More details about this seminar series are available [here](../seminars.qmd).
+More details about this seminar series are available [here](../..seminars.qmd).
