@@ -1,6 +1,9 @@
 ---
 title: "epinowcast 0.2.1"
-author: Sam Abbott
+author: 
+  - name: Sam Abbott
+    url: https://samabbott.co.uk/
+    orcid: 0000-0001-8057-8037
 date: 2023-05-02
 image: release-burn-down.png
 categories:
