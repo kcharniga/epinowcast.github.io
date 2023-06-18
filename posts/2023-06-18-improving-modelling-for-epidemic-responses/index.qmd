@@ -1,94 +1,138 @@
 ---
 title: "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic"
-authors:
+author:
   - name: Katharine Sherratt*
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - id: lshtm
+        name: Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine
+        city: London
+        country: UK
+    attributes:
+      corresponding: true
+      equal-contributor: true
   - name: Anna C. Carnegie*
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
+    attributes:
+      equal-contributor: true
   - name: Adam Kucharski
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Anne Cori
-    affiliation: 
-      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+    affiliations:
+      - id: mrc-imperial
+        name: MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London
+        city: London
+        country: UK
   - name: Carl A. B. Pearson
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
-      - South African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA), Stellenbosch University, South Africa
+    affiliations:
+      - ref: lshtm
+      - id: sacema
+        name: South African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA), Stellenbosch University
+        city: Stellenbosch
+        country: South Africa
   - name: Christopher I. Jarvis
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Christopher Overton
-    affiliation: 
-      - All Hazards Intelligence, Data Analytics and Surveillance, UK Health Security Agency, UK
-      - Department of Mathematical Sciences, University of Liverpool, UK
-      - Department of Mathematics, University of Manchester, UK
+    affiliations:
+      - id: ukhsa
+        name: All Hazards Intelligence, Data Analytics and Surveillance, UK Health Security Agency
+        city: London
+        country: UK
+      - id: livuni
+        name: Department of Mathematical Sciences, University of Liverpool
+        city: Liverpool
+        country: UK
+      - id: manuni
+        name: Department of Mathematics, University of Manchester
+        city: Manchester
+        country: UK
   - name: Dale Weston
-    affiliation: 
-      - Emergency Response Department Science & Technology Behavioural Science, UK Health Security Agency, UK
+    affiliations:
+      - id: ukhsa-erd
+        name: Emergency Response Department Science & Technology Behavioural Science, UK Health Security Agency
+        city: London
+        country: UK
   - name: Edward M. Hill
-    affiliation: 
-      - Warwick Mathematics Institute and The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research, University of Warwick, UK
-      - Joint UNIversities Pandemic and Epidemiological Research
+    affiliations:
+      - id: warwick
+        name: Warwick Mathematics Institute and The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research, University of Warwick
+        city: Coventry
+        country: UK
+      - id: juniper
+        name: Joint UNIversities Pandemic and Epidemiological Research
+        city: Multiple
+        country: UK
   - name: Edward Knock
-    affiliation: 
-      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+    affiliations:
+      - ref: mrc-imperial
   - name: Elizabeth Fearon
-    affiliation: 
-      - Institute for Global Health, University College London, UK
+    affiliations:
+      - id: igh-ucl
+        name: Institute for Global Health, University College London
+        city: London
+        country: UK
   - name: Emily Nightingale
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Joel Hellewell
-    affiliation: 
-      - European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK
+    affiliations:
+      - id: embl
+        name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus
+        city: Hinxton
+        country: UK
   - name: W. John Edmunds
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Julián Villabona Arenas
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Kiesha Prem
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
-      - Saw Swee Hock School of Public Health, National University of Singapore, Singapore
+    affiliations:
+      - ref: lshtm
+      - id: sshsp-nus
+        name: Saw Swee Hock School of Public Health, National University of Singapore
+        city: Singapore
+        country: Singapore
   - name: Li Pi
-    affiliation: 
-      - Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, UK
+    affiliations:
+      - id: bdi-oxford
+        name: Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford
+        city: Oxford
+        country: UK
   - name: Marc Baguelin
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
-      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+    affiliations:
+      - ref: lshtm
+      - ref: mrc-imperial
   - name: Michelle Kendall
-    affiliation: 
-      - Warwick Mathematics Institute and The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research, University of Warwick, UK
+    affiliations:
+      - ref: warwick
   - name: Neil Ferguson
-    affiliation: 
-      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+    affiliations:
+      - ref: mrc-imperial
   - name: Nicholas Davies
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Rosalind M. Eggo
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Sabine van Elsland
-    affiliation: 
-      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+    affiliations:
+      - ref: mrc-imperial
   - name: Timothy Russell
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
-      - European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK
+    affiliations:
+      - ref: lshtm
+      - ref: embl
   - name: Sebastian Funk
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Yang Liu
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
   - name: Sam Abbott
-    affiliation: 
-      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    affiliations:
+      - ref: lshtm
     url: https://samabbott.co.uk/
     orcid: 0000-0001-8057-8037
 date: 2023-06-18
@@ -99,6 +143,7 @@ categories:
   - evaluation
 comments: false
 ---
+*\* contributed equally*
 
 *This blog post reproduces [an executive summary](summary-improving-modelling-for-epidemic-responses.pdf) written by the authors of ["Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic"](https://doi.org/10.1101/2023.06.12.544667) which was sent to funding organisations, University executives, and senior members of Public Health organsiations.*
 
