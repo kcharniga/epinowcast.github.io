@@ -31,7 +31,7 @@ Katharine Sherratt* (1), Anna C. Carnegie* (1), Adam Kucharski (1), Anne Cori (2
 12. Saw Swee Hock School of Public Health, National University of Singapore, Singapore, Singapore
 13. Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK
 
-## Summary
+## Outline
 
 As members of the infectious disease modelling community, we recognize the role we play in shaping effective epidemic responses. Our experiences throughout the COVID-19 pandemic have highlighted substantial challenges in our field, including psychological pressures, gaps in institutional support, and systemic issues that pervade the academic and research landscape. Motivated by these challenges and committed to improving future response efforts, we, a group of 27 members from the UK infectious disease modelling community, convened for a reflective workshop in March 2023. This summary distils the key issues we identified and proposes strategies that we believe can enhance the effectiveness of our field in future epidemic responses. A full report on our methods and findings, including the anonymised individual feedback from workshop participants that informed our findings, is available.
 
