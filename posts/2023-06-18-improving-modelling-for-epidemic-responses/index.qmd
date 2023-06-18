@@ -1,140 +1,5 @@
 ---
 title: "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic"
-author:
-  - name: Katharine Sherratt*
-    affiliations:
-      - id: lshtm
-        name: Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine
-        city: London
-        country: UK
-    attributes:
-      corresponding: true
-      equal-contributor: true
-  - name: Anna C. Carnegie*
-    affiliations:
-      - ref: lshtm
-    attributes:
-      equal-contributor: true
-  - name: Adam Kucharski
-    affiliations:
-      - ref: lshtm
-  - name: Anne Cori
-    affiliations:
-      - id: mrc-imperial
-        name: MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London
-        city: London
-        country: UK
-  - name: Carl A. B. Pearson
-    affiliations:
-      - ref: lshtm
-      - id: sacema
-        name: South African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA), Stellenbosch University
-        city: Stellenbosch
-        country: South Africa
-  - name: Christopher I. Jarvis
-    affiliations:
-      - ref: lshtm
-  - name: Christopher Overton
-    affiliations:
-      - id: ukhsa
-        name: All Hazards Intelligence, Data Analytics and Surveillance, UK Health Security Agency
-        city: London
-        country: UK
-      - id: livuni
-        name: Department of Mathematical Sciences, University of Liverpool
-        city: Liverpool
-        country: UK
-      - id: manuni
-        name: Department of Mathematics, University of Manchester
-        city: Manchester
-        country: UK
-  - name: Dale Weston
-    affiliations:
-      - id: ukhsa-erd
-        name: Emergency Response Department Science & Technology Behavioural Science, UK Health Security Agency
-        city: London
-        country: UK
-  - name: Edward M. Hill
-    affiliations:
-      - id: warwick
-        name: Warwick Mathematics Institute and The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research, University of Warwick
-        city: Coventry
-        country: UK
-      - id: juniper
-        name: Joint UNIversities Pandemic and Epidemiological Research
-        city: Multiple
-        country: UK
-  - name: Edward Knock
-    affiliations:
-      - ref: mrc-imperial
-  - name: Elizabeth Fearon
-    affiliations:
-      - id: igh-ucl
-        name: Institute for Global Health, University College London
-        city: London
-        country: UK
-  - name: Emily Nightingale
-    affiliations:
-      - ref: lshtm
-  - name: Joel Hellewell
-    affiliations:
-      - id: embl
-        name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus
-        city: Hinxton
-        country: UK
-  - name: W. John Edmunds
-    affiliations:
-      - ref: lshtm
-  - name: Julián Villabona Arenas
-    affiliations:
-      - ref: lshtm
-  - name: Kiesha Prem
-    affiliations:
-      - ref: lshtm
-      - id: sshsp-nus
-        name: Saw Swee Hock School of Public Health, National University of Singapore
-        city: Singapore
-        country: Singapore
-  - name: Li Pi
-    affiliations:
-      - id: bdi-oxford
-        name: Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford
-        city: Oxford
-        country: UK
-  - name: Marc Baguelin
-    affiliations:
-      - ref: lshtm
-      - ref: mrc-imperial
-  - name: Michelle Kendall
-    affiliations:
-      - ref: warwick
-  - name: Neil Ferguson
-    affiliations:
-      - ref: mrc-imperial
-  - name: Nicholas Davies
-    affiliations:
-      - ref: lshtm
-  - name: Rosalind M. Eggo
-    affiliations:
-      - ref: lshtm
-  - name: Sabine van Elsland
-    affiliations:
-      - ref: mrc-imperial
-  - name: Timothy Russell
-    affiliations:
-      - ref: lshtm
-      - ref: embl
-  - name: Sebastian Funk
-    affiliations:
-      - ref: lshtm
-  - name: Yang Liu
-    affiliations:
-      - ref: lshtm
-  - name: Sam Abbott
-    affiliations:
-      - ref: lshtm
-    url: https://samabbott.co.uk/
-    orcid: 0000-0001-8057-8037
 date: 2023-06-18
 image: summary.png
 categories:
@@ -146,6 +11,28 @@ comments: false
 *\* contributed equally*
 
 *This blog post reproduces [an executive summary](summary-improving-modelling-for-epidemic-responses.pdf) written by the authors of ["Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic"](https://doi.org/10.1101/2023.06.12.544667) which was sent to funding organisations, University executives, and senior members of Public Health organsiations.*
+
+## Authors
+
+Katharine Sherratt* (1), Anna C. Carnegie* (1), Adam Kucharski (1), Anne Cori (2), Carl A. B. Pearson (1, 3), Christopher I. Jarvis (1), Christopher Overton (4, 5, 6), Dale Weston (7), Edward M. Hill (8, 9), Edward Knock (2), Elizabeth Fearon (10), Emily Nightingale (1), Joel Hellewell (11), W. John Edmunds (1), Julián Villabona Arenas (1), Kiesha Prem (1, 12), Li Pi (13), Marc Baguelin (1, 2), Michelle Kendall (8), Neil Ferguson (2), Nicholas Davies (1), Rosalind M. Eggo (1), Sabine van Elsland (2), Timothy Russell (1, 11), Sebastian Funk (1), Yang Liu (1), Sam Abbott (1)
+
+## Affiliations
+
+1. Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, London, UK
+2. MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK
+3. South African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA), Stellenbosch University, Stellenbosch, South Africa
+4. All Hazards Intelligence, Data Analytics and Surveillance, UK Health Security Agency, London, UK
+5. Department of Mathematical Sciences, University of Liverpool, Liverpool, UK
+6. Department of Mathematics, University of Manchester, Manchester, UK
+7. Emergency Response Department Science & Technology Behavioural Science, UK Health Security Agency, London, UK
+8. Warwick Mathematics Institute and The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research, University of Warwick, Coventry, UK
+9. Joint UNIversities Pandemic and Epidemiological Research, Multiple, UK
+10. Institute for Global Health, University College London, London, UK
+11. European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK
+12. Saw Swee Hock School of Public Health, National University of Singapore, Singapore, Singapore
+13. Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK
+
+## Summary
 
 As members of the infectious disease modelling community, we recognize the role we play in shaping effective epidemic responses. Our experiences throughout the COVID-19 pandemic have highlighted substantial challenges in our field, including psychological pressures, gaps in institutional support, and systemic issues that pervade the academic and research landscape. Motivated by these challenges and committed to improving future response efforts, we, a group of 27 members from the UK infectious disease modelling community, convened for a reflective workshop in March 2023. This summary distils the key issues we identified and proposes strategies that we believe can enhance the effectiveness of our field in future epidemic responses. A full report on our methods and findings, including the anonymised individual feedback from workshop participants that informed our findings, is available.
 
