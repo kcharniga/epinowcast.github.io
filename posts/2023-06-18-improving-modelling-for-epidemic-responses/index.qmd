@@ -1,0 +1,163 @@
+---
+title: "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic"
+authors:
+  - name: Katharine Sherratt*
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Anna C. Carnegie*
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Adam Kucharski
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Anne Cori
+    affiliation: 
+      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+  - name: Carl A. B. Pearson
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+      - South African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA), Stellenbosch University, South Africa
+  - name: Christopher I. Jarvis
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Christopher Overton
+    affiliation: 
+      - All Hazards Intelligence, Data Analytics and Surveillance, UK Health Security Agency, UK
+      - Department of Mathematical Sciences, University of Liverpool, UK
+      - Department of Mathematics, University of Manchester, UK
+  - name: Dale Weston
+    affiliation: 
+      - Emergency Response Department Science & Technology Behavioural Science, UK Health Security Agency, UK
+  - name: Edward M. Hill
+    affiliation: 
+      - Warwick Mathematics Institute and The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research, University of Warwick, UK
+      - Joint UNIversities Pandemic and Epidemiological Research
+  - name: Edward Knock
+    affiliation: 
+      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+  - name: Elizabeth Fearon
+    affiliation: 
+      - Institute for Global Health, University College London, UK
+  - name: Emily Nightingale
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Joel Hellewell
+    affiliation: 
+      - European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK
+  - name: W. John Edmunds
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Julián Villabona Arenas
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Kiesha Prem
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+      - Saw Swee Hock School of Public Health, National University of Singapore, Singapore
+  - name: Li Pi
+    affiliation: 
+      - Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, UK
+  - name: Marc Baguelin
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+  - name: Michelle Kendall
+    affiliation: 
+      - Warwick Mathematics Institute and The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research, University of Warwick, UK
+  - name: Neil Ferguson
+    affiliation: 
+      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+  - name: Nicholas Davies
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Rosalind M. Eggo
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Sabine van Elsland
+    affiliation: 
+      - MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, UK
+  - name: Timothy Russell
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+      - European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK
+  - name: Sebastian Funk
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Yang Liu
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+  - name: Sam Abbott
+    affiliation: 
+      - Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, UK
+    url: https://samabbott.co.uk/
+    orcid: 0000-0001-8057-8037
+date: 2023-06-18
+image: summary.png
+categories:
+  - paper-summary
+  - epidemic-prepardnesss
+  - evaluation
+comments: false
+---
+
+*This blog post reproduces [an executive summary](summary-improving-modelling-for-epidemic-responses.pdf) written by the authors of ["Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic"](https://doi.org/10.1101/2023.06.12.544667) which was sent to funding organisations, University executives, and senior members of Public Health organsiations.*
+
+As members of the infectious disease modelling community, we recognize the role we play in shaping effective epidemic responses. Our experiences throughout the COVID-19 pandemic have highlighted substantial challenges in our field, including psychological pressures, gaps in institutional support, and systemic issues that pervade the academic and research landscape. Motivated by these challenges and committed to improving future response efforts, we, a group of 27 members from the UK infectious disease modelling community, convened for a reflective workshop in March 2023. This summary distils the key issues we identified and proposes strategies that we believe can enhance the effectiveness of our field in future epidemic responses. A full report on our methods and findings, including the anonymised individual feedback from workshop participants that informed our findings, is available.
+
+## Discussion Themes
+
+To identify overarching themes, we started with paired discussions, with each participant sharing their personal and professional pandemic experiences for 15 minutes. We then aggregated pairs into groups of increasing size in order to generalise personal experiences into themes. This approach fostered an understanding of the individual experiences that constituted our collective response effort.
+
+Following these discussions, we collectively identified and categorised emergent issues for epidemic response work into themes. These were:
+
+- **Funding and institutional support:** Participants reported insufficient institutional support and contract insecurity due to reliance on external grant funding, impacting both academic and professional services roles.
+Recognitions, rewards, and access: Current reward metrics were deemed inadequate, with unequal credit attribution and limited access to policy-making spaces.
+- **Team and work dynamics:** Issues included insufficient capacity, competing demands, barriers to progression, and both positive and negative aspects of collaborative working.
+- **Non-academic contributions:** The importance of professional services staff and collaboration with public health agency workers were highlighted.
+- **Personal impacts:** Public recognition led to both increased visibility and challenges; mental ill health and burnout were prevalent; balancing work with personal commitments was difficult for many.
+
+We recognise that many of these issues impact those in our field outside of an epidemic response but believe that they are a particular issue for work of this kind. We also acknowledge that the COVID-19 pandemic has engendered widespread hardship, stress, and ill health throughout various populations, and it is crucial to reflect on and address these profound impacts across all strata of society, not just in our community. 
+
+## Priority recommendations
+
+The workshop proposed the following priority recommendations to improve support and sustainability for future epidemic response work:
+
+1. **Acknowledge and reward impactful response work at institution, funder, and research community levels.** For example, refining impact measures to credit all forms of output produced during, and required for, response work; institutions could incorporate response-driven work into criteria for doctoral theses and promotion. 
+   
+2. **Encourage routine interaction between academia and public health agencies, including consistently reviewing the appropriate allocation of epidemic response tasks.** One potential solution is creating sustainable dual positions recruiting from both sectors.
+   
+3. **Ensure response teams are well-staffed, well-resourced, stable, and provided psychological support.** This approach reduces dependence on key individuals. One approach is to establish sustainable team-building and training programmes during non-response periods. 
+
+4. **Increase the transparency of the evidence pathway from scientists to decision-makers.** This makes it easier for those across the scientific community to contribute as well as making the evidence base for decisions clearer to the general public. This could be achieved by standardising rapid open access to the minutes of scientific advisory meetings.
+   
+5. **Implement best practices for a sustainable work environment.** Employers and team leads can promote leave-taking and respecting work hours, clarify communication about processes and rewards across career stages, prepare for, and standardise, the onboarding of new team members, and integrate support roles.
+
+Achieving these changes necessitates investment from governments, funding bodies, and institutions. Teams may need to redefine their working methods to place greater emphasis on well-being, training, and career development. While localised initiatives require time investment from those leading them, they must be supported to foster a healthier and more sustainable environment for future epidemic response work.
+
+As it stands, future epidemic responses are likely to raise similar challenges to those we have identified here, including reliance on a select number of individuals, excessive workloads and the exacerbation of systemic inequalities. It is critical we act outside of response contexts, for example by implementing the recommendations we have outlined, to mitigate these issues and respond more effectively in future.
+
+## Strengths of these themes & recommendations
+
+- The insights are deeply rooted in the experiences of the UK modelling community, providing authentic, community-driven perspectives.
+- The workshop included participants from various career stages and perspectives, bolstering its diversity of views.
+- An external facilitator and prior community input ensured a safe and relevant discussion environment.
+
+## Limitations of these themes & recommendations
+
+- Participant representation was restricted due to the one-day workshop format and limitations on who could attend in person.
+- Attendees were predominantly from London and South East of England, potentially due to restricted travel support.
+- Despite efforts, few individuals who left the infectious disease modelling field were present, possibly omitting crucial perspectives.
+- Consequently, the findings may not fully represent the breadth of experiences, especially the most challenging ones, and could be more moderate than if a wider range of participants attended.
+- Therefore, these insights should be considered as a summary of a small group's experiences and opinions, acknowledging potential variations across different locations and groups. Further investigations in other locations are recommended to broaden the scope of findings.
+
+## Acknowledgements 
+
+We wish to acknowledge the support of the following individuals in the development of this project: Rosanna Barnard, Ciara Dangerfield, Dale Weston, Anne Cori, Joel Hellewell, Charlotte Hall, Rosalind Eggo, Stefan Flasche, Sebastian Funk, Mark Jit, Graham Medley, and external facilitator, Janice McNamara. 
+
+We also wish to thank everyone who so graciously shared their experiences at this event and those that completed the online survey. 
+
+## Funding
+
+This project received funding from: The LSHTM COVID-19 response fund, the National Institute for Health and Care Research (NIHR) Health Protection Research Unit in Modelling and Health Economics (grant code NIHR200908), LSHTM’s Department of Infectious Disease Epidemiology, Professor John Edmunds, and The Centre for Mathematical Modelling of Infectious Diseases (CMMID) at LSHTM. Disclaimer: “The views expressed are those of the author(s) and not necessarily those of the NIHR, UK Health Security Agency or the Department of Health and Social Care.
+
+KS, SA, SF funded by Wellcome Trust (grant number 200901/Z/16/Z). MK funded by NIHR, HPRU in Genomics and Enabling Data (grant number NIHR200892). ND funded by National Institute for Health Research (NIHR) Health Protection Research Unit in Modelling and Health Economics (grant code NIHR200908). SvE funded by MRC Centre for Global Infectious Disease Analysis (reference MR/R015600/1), jointly funded by the UK Medical Research Council (MRC) and the UK Foreign, Commonwealth & Development Office (FCDO), under the MRC/FCDO Concordat agreement and the EDCTP2 programme supported by the European Union.
