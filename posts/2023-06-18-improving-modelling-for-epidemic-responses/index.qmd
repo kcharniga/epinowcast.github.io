@@ -8,7 +8,6 @@ categories:
   - evaluation
 comments: false
 ---
-*\* contributed equally*
 
 *This blog post reproduces [an executive summary](summary-improving-modelling-for-epidemic-responses.pdf) written by the authors of ["Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic"](https://doi.org/10.1101/2023.06.12.544667) which was sent to funding organisations, University executives, and senior members of Public Health organsiations.*
 
@@ -16,7 +15,7 @@ comments: false
 
 Katharine Sherratt* (1), Anna C. Carnegie* (1), Adam Kucharski (1), Anne Cori (2), Carl A. B. Pearson (1, 3), Christopher I. Jarvis (1), Christopher Overton (4, 5, 6), Dale Weston (7), Edward M. Hill (8, 9), Edward Knock (2), Elizabeth Fearon (10), Emily Nightingale (1), Joel Hellewell (11), W. John Edmunds (1), Julián Villabona Arenas (1), Kiesha Prem (1, 12), Li Pi (13), Marc Baguelin (1, 2), Michelle Kendall (8), Neil Ferguson (2), Nicholas Davies (1), Rosalind M. Eggo (1), Sabine van Elsland (2), Timothy Russell (1, 11), Sebastian Funk (1), Yang Liu (1), Sam Abbott (1)
 
-## Affiliations
+*\* contributed equally*
 
 1. Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, London, UK
 2. MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK
