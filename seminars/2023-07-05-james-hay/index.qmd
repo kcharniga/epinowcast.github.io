@@ -1,0 +1,23 @@
+---
+title: "James Hay - The most important operator in infectious disease modeling, and how to use it with biomarker data"
+date: 2023-07-05
+comments: false
+---
+
+On Wednesday the 5th of July at 2pm UK time James Hay will be talking about "The most important operator in infectious disease modeling, and how to use it with biomarker data"
+
+James is a research fellow in the Nuffield Department of Medicine at the University of Oxford funded through a Wellcome Trust Early Career Award. Their expertise is in infectious disease modelling, with a specific interest in using novel data types to understand and track the dynamics of infectious diseases, particularly influenza and SARS-CoV-2. One example of their work is ["Estimating epidemiologic dynamics from cross-sectional viral load distributions"](https://doi.org/10.1126/science.abh0635). In this work, infection incidence was estimated using the time-varying distribution of cycle threshold values from routine RT-qPCR hospital testing.
+
+James completed their PhD at Imperial College in 2019 and spent three years as a postdoc at the Harvard Chan School of Public Health. Before that, their undergraduate degree was in Natural Sciences (Zoology) at the University of Cambridge, followed by an MSc in Computing Science at Imperial College. For more on James work see [here](https://www.bdi.ox.ac.uk/Team/james-hay) or [here](https://scholar.google.com/citations?hl=en&user=QroZi-IAAAAJ&view_op=list_works&sortby=pubdate) for their published research.
+
+A recording of this talk will be posted to [our community site](https://community.epinowcast.org/c/meetings/8) a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+More details about this seminar series are available [here](../../seminars.qmd).
