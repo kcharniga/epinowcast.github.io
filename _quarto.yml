@@ -25,6 +25,8 @@ website:
             href: "https://epinowcast.r-universe.dev/packages"
           - text: "{epinowcast}"
             href:  "https://package.epinowcast.org"
+          - text: "{hashprng}"
+            href:  "https://hashprng.epinowcast.org"
       - text: "Community"
         menu:
         - text: Meetings
