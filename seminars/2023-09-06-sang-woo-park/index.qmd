@@ -1,0 +1,27 @@
+---
+title: "Sang Woo Park - Generation and serial intervals in epidemics"
+date: 2023-09-06
+comments: false
+---
+
+On Wednesday the 6th of September at 2pm UK time Sang Woo Park will be talking about "Generation and serial intervals in epidemics".
+
+The generation interval is the time between when an individual becomes infected and when they infect another person, but measuring it can be difficult, so serial intervals are often used instead. In this talk, Sang Woo will explain how generation and serial intervals can vary across time and space during an epidemic and how different interventions affect their distributions.
+
+Sang Woo is a computational biologist developing mathematical theory and statistical methods for predictions of infectious disease outbreaks through the analysis of multivariate time series. They are currently pursuing a Ph.D. degree at Princeton University, expecting to graduate in May 2024. Their focus areas include time-series analysis, parameter estimation, optimization, and Bayesian inference. For more on their work see [here](https://www.linkedin.com/in/parksw3/) or [here](https://scholar.google.ca/citations?user=ZSCrs78AAAAJ&hl=en) for their published research.
+
+A recording of this talk will be posted to [our community site](https://community.epinowcast.org/c/meetings/8) a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.
+
+## Abstract
+
+The generation interval, defined as the time between when an individual becomes infected and when they infect another person, is a fundamental quantity describing the infection process. However, measuring generation intervals in practice can be challenging because infection events are rarely observed. Instead, serial intervals, defined as the time between when an individual develops symptoms and when their infectee develops symptoms, are often used as a substitute. In this talk, I explain how generation and serial intervals can vary across time and space during an epidemic. I also discuss how different interventions affect their distributions.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+More details about this seminar series are available [here](../../seminars.qmd).
