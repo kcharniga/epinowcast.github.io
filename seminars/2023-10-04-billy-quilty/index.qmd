@@ -6,7 +6,7 @@ comments: false
 
 On Wednesday the 4th of October at 2pm UK time Billy Quilty will be talking about "Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK".
 
-In this talk, Billy will expore how modelling and randomised controlled trials informed national policy on the use of rapid testing in contact tracing during the COVID-19 pandemic in the UK.
+In this talk, Billy will explore how modelling and randomised controlled trials informed national policy on the use of rapid testing in contact tracing during the COVID-19 pandemic in the UK.
 
 Billy Quilty is a research fellow in infectious disease epidemiology and dynamics at LSHTM. His research focuses on assessing the impact of interventions such as vaccination and testing on transmission through statistical and mathematical modelling. He was a founding member of the [CMMID COVID-19 working group](https://cmmid.github.io/topics/covid19/), and worked on modelling the COVID-19 pandemic from Janurary 2020 for which they recieved a SPI-M-O award for modelling and data support along with international recognition. For more on their work see [here](https://scholar.google.com/citations?user=YqjU048AAAAJ&hl=en) for their published research.
 
