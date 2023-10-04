@@ -34,3 +34,8 @@ Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https
 
 ::: {#seminar-lists}
 :::
+
+## Seminar recordings
+
+When possible we record seminars and post the recordings to YouTube. You can find a playlist of
+all the recordings [here](https://www.youtube.com/playlist?list=PLJF2tUal-H-QKqfL1qsnJYo0TYdWEzUfT).
