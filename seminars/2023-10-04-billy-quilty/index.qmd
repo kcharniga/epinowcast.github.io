@@ -1,0 +1,23 @@
+---
+title: "Billy Quilty - Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK"
+date: 2023-10-04
+comments: false
+---
+
+On Wednesday the 4th of October at 2pm UK time Billy Quilty will be talking about " Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK".
+
+In this talk, Billy  will discuss talk how modelling and randomised controlled trials informed national policy on the use of rapid testing in contact tracing during the COVID-19 pandemic in the UK
+
+Billy Quilty is a research fellow in infectious disease epidemiology and dynamics at LSHTM. His research focuses on assessing the impact of interventions such as vaccination and testing on transmission through statistical and mathematical modelling. He was a founding member of the [CMMID COVID-19 working group](https://cmmid.github.io/topics/covid19/), and worked on modelling the COVID-19 pandemic from Janurary 2020 for which they recieved a SPI-M-O award for modelling and data support along with international recognition. For more on their work see [here](https://scholar.google.com/citations?user=YqjU048AAAAJ&hl=en) for their published research.
+
+A recording of this talk will be posted to [our community site](https://community.epinowcast.org/c/meetings/8) a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+More details about this seminar series are available [here](../../seminars.qmd).
