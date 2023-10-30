@@ -1,0 +1,27 @@
+---
+title: "Samuel Brand - Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population"
+date: 2023-11-01
+comments: false
+---
+
+On Wednesday the 1st of November at 2pm UK time Samuel Brand will be talking about "Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population".
+
+In this talk, Sam will discuss the challenge of modeling the Mpox epidemic in the United Kingdom (see the abstract below for more details).
+
+Samuel Brand is currently a senior data scientist consulting with Goldbelt to support the [Center for Forecasting and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html) at the US CDC. Prior to this they were a Post-doctoral Research Assistant at the University of Warwick where their research focussed on transmission pathways for respiratory viruses in low- and middle- income countries, mainly respiratory syncytial virus (RSV) and SARS-CoV-2. Their wider interests include: the phylodynamics of respiratory viruses, diseases of livestock (in particular Bluetongue virus; BTV), vector-borne diseases with climatic forcing (in particular the European spread of BTV), optimal vaccination in reaction to a developing epidemic, efficient simulation of large stochastic and spatial models of epidemics, household-structured epidemic models, inferring latent variables within epidemic models, and moment closure for epidemic models. For more on their work see [here](https://scholar.google.com/citations?user=wnB8pTkAAAAJ&hl=en) for their published research.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Abstract
+
+Beginning in May 2022, Mpox virus spread rapidly in high-income countries through close human-to-human contact primarily amongst communities of gay, bisexual and men who have sex with men (GBMSM). The epidemiology of Mpox in the United Kingdom suggested that a full network model of sexual contacts could be an appropriate modelling framework for making inferences on key quantities (e.g. the risk of transmission per contact), generating probabilistic forecasts of the future Mpox trajectory and performing scenario-based projections. However, full network models are computationally intensive and complicated to calibrate, which in practical terms makes them difficult to operationalize. We present a stochastic discrete-population transmission model which includes GBMSM status, rate of formation of new sexual partnerships. The social structure underlying the transmission of Mpox was represented as a randomly sized clique partitioning of the population; which was inferred along with other parameters. Moreover, given increasingly wide-spread public awareness of Mpox over the summer of 2022, it seemed possible that actions taken by the public aimed at decreasing personal risk of contracting Mpox could impact the epidemic curve in the United Kingdom. Towards capturing this public response to the epidemic, we considered both individual behaviour change and uptake of the modified Vaccinia-based vaccine Imvanex/Jynneos. 
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+More details about this seminar series are available [here](../../seminars.qmd).
