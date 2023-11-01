@@ -16,7 +16,7 @@ This takes place on the first Wednesday of every month at 2pm UK time with recor
 
 We generally aim to fill the scheduled hour with talks ranging from 20-40 minutes followed by questions and community discussion.
 
-You can see a list of scheduled speakers [here](https://docs.google.com/spreadsheets/d/1OBkpxhiUPs0oXpmlUxlwhKfb3kBPaja7mUJlXXH3T60/edit#gid=0). If interested in speaking yourself, or in helping to organise this seminar series, please reach out to Sam Abbott or Felix Guenther (the current organisers).
+You can see a list of scheduled speakers [here](https://docs.google.com/spreadsheets/d/1OBkpxhiUPs0oXpmlUxlwhKfb3kBPaja7mUJlXXH3T60/edit#gid=0). If interested in speaking yourself, or in helping to organise this seminar series, please reach out to Sam Abbott or Kelly Charniga (the current organisers).
 
 Please do attend if interested in the real-time modelling of infectious disease.
 
@@ -29,6 +29,8 @@ Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/
 Or follow [this RSS feed](seminars.xml).
 
 Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
 
 ## Upcoming and previous seminars
 
