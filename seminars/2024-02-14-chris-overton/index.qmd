@@ -1,0 +1,24 @@
+---
+title: "Chris Overton - Nowcasting the 2022 Mpox outbreak in England"
+date: 2024-02-14
+comments: false
+---
+
+On Wednesday the 14th of February at 3pm UK time Chris Overton will be talking about "Nowcasting the 2022 Mpox outbreak in England".
+
+In this talk, Chris will discuss the challenge of nowcasting the Mpox epidemic in the United Kingdom in real-time. See [here](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=K-VCya0AAAAJ&sortby=pubdate&citation_for_view=K-VCya0AAAAJ:9ZlFYXVOiuMC) for the preprint of the paper he will be discussing.
+
+Chris Overton is a lecturer for healthcare at the University of Liverpool and an infectious disease modeller at the United kingdom Health Security Agency. His research interests include the development of mathematical models to understand the transmission dynamics of infectious diseases, and the use of these models to inform public health policy. He has worked on a range of infectious diseases including influenza, SARS-CoV-2, and Mpox. He is particularly interested in the use of real-time data to inform the nowcasting and forecasting of infectious disease outbreaks. For more on his work see [here](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&hl=en&user=K-VCya0AAAAJ&sortby=pubdate). 
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
