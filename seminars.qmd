@@ -12,7 +12,7 @@ comments: false
 
 We run a monthly virtual seminar focussing on real-time modelling of infectious disease with the primary aim of connecting between different silos of knowledge (i.e. between mathematical modellers, statisticians, decision-makers, epidemiologists, and others).
 
-This takes place on the first Wednesday of every month at 2pm UK time with recordings posted a week later on [our community site](https://community.epinowcast.org/c/meetings/8) alongside any discussion of the seminar.
+This takes place on the first Wednesday of every month at 3pm UK time with recordings posted a week later on [our community site](https://community.epinowcast.org/c/meetings/8) alongside any discussion of the seminar.
 
 We generally aim to fill the scheduled hour with talks ranging from 20-40 minutes followed by questions and community discussion.
 
