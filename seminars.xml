@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Epinowcast</title>
+<link>https://epinowcast.org/seminars.html</link>
+<atom:link href="https://epinowcast.org/seminars.xml" rel="self" type="application/rss+xml"/>
+<description>Epinowcast community site</description>
+<image>
+<url>https://epinowcast.org/images/logo.png</url>
+<title>Epinowcast</title>
+<link>https://epinowcast.org/seminars.html</link>
+<height>167</height>
+<width>144</width>
+</image>
+<generator>quarto-1.4.551</generator>
+<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Tomás León - CalCAT: Past, Present, and Future for California’s Use of Infectious Disease Modeling in Public Health Response</title>
+  <link>https://epinowcast.org/seminars/2024-03-05-tomas-leon/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 6th of March at 3pm UK time, Tomás León will be talking about California’s use of infectious disease modeling in public health response.</p>
+<p>In this talk, Tomás will discuss CalCAT, a public-facing modeling hub for California and its counties, which was launched with partners in 2020 as part of the COVID-19 response. He will also talk about the Modeling and Advanced Analytics Team, which was founded during the pandemic to synthesize modeling results being generated and produce internal modeling products to support the state’s public health response activities.</p>
+<p>Tomás León is the Modeling Section Chief at the California Department of Public Health (CDPH). Before joining CDPH as part of the COVID-19 response in 2020, he was a researcher at the University of California, Berkeley, who focused on macroparasite modeling and modeling related to the ecology of mosquito-borne diseases. His current focus is on expanding the use of infectious disease modeling tools at CDPH for public health decision making and integrating best modeling practices in collaboration with external partners. For more on his work see <a href="https://tomasleon.com/">here</a>.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-03-05-tomas-leon/</guid>
+  <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Chris Overton - Nowcasting the 2022 Mpox outbreak in England</title>
+  <link>https://epinowcast.org/seminars/2024-02-14-chris-overton/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 14th of February at 3pm UK time Chris Overton will be talking about “Nowcasting the 2022 Mpox outbreak in England”.</p>
+<p>In this talk, Chris will discuss the challenge of nowcasting the Mpox epidemic in the United Kingdom in real-time. See <a href="https://scholar.google.co.uk/citations?view_op=view_citation&amp;hl=en&amp;user=K-VCya0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=K-VCya0AAAAJ:9ZlFYXVOiuMC">here</a> for the preprint of the paper he will be discussing.</p>
+<p>Chris Overton is a lecturer for healthcare at the University of Liverpool and an infectious disease modeller at the United kingdom Health Security Agency. His research interests include the development of mathematical models to understand the transmission dynamics of infectious diseases, and the use of these models to inform public health policy. He has worked on a range of infectious diseases including influenza, SARS-CoV-2, and Mpox. He is particularly interested in the use of real-time data to inform the nowcasting and forecasting of infectious disease outbreaks. For more on his work see <a href="https://scholar.google.co.uk/citations?view_op=list_works&amp;hl=en&amp;hl=en&amp;user=K-VCya0AAAAJ&amp;sortby=pubdate">here</a>. A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2024-02-14-chris-overton/</guid>
+  <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Rebecca Borchering - Informing short term forecasts of categorical trends in confirmed influenza hospital admissions in the US using real-time effective reproduction number estimates</title>
+  <link>https://epinowcast.org/seminars/2023-12-06-rebecca-borchering/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 6th of December at 3pm UK time Rebecca Borchering will be talking about “Informing short term forecasts of categorical trends in confirmed influenza hospital admissions in the US using real-time effective reproduction number estimates”.</p>
+<p>Rebecca Borchering is a Mathematical Statistician leading influenza modeling and forecasting efforts, such as the FluSight influenza forecasting collaboration, in the Applied Research and Modeling Team in the Influenza Division of the US Centers for Disease Control. They were a founding member of the COVID-19 Scenario Modeling Hub and have experience modeling infectious disease dynamics in multiple pathogen systems. Rebecca was also part of a team that recently published a <a href="https://www.cdc.gov/forecast-outbreak-analytics/about/technical-blog-rt.html">CDC technical blog on improving the CDC’s tool for assessing epidemic growth</a>. For more on their work see <a href="https://scholar.google.com/citations?user=JvBiQQYAAAAJ&amp;hl=en">here</a> for their published research.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2023-12-06-rebecca-borchering/</guid>
+  <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Samuel Brand - Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population</title>
+  <link>https://epinowcast.org/seminars/2023-11-01-samuel-brand/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 1st of November at 2pm UK time Samuel Brand will be talking about “Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population”.</p>
+<p>In this talk, Sam will discuss the challenge of modeling the Mpox epidemic in the United Kingdom (see the abstract below for more details).</p>
+<p>Samuel Brand is currently a senior data scientist consulting with Goldbelt to support the <a href="https://www.cdc.gov/forecast-outbreak-analytics/index.html">Center for Forecasting and Outbreak Analytics</a> at the US CDC. Prior to this they were a Post-doctoral Research Assistant at the University of Warwick where their research focussed on transmission pathways for respiratory viruses in low- and middle- income countries, mainly respiratory syncytial virus (RSV) and SARS-CoV-2. Their wider interests include: the phylodynamics of respiratory viruses, diseases of livestock (in particular Bluetongue virus; BTV), vector-borne diseases with climatic forcing (in particular the European spread of BTV), optimal vaccination in reaction to a developing epidemic, efficient simulation of large stochastic and spatial models of epidemics, household-structured epidemic models, inferring latent variables within epidemic models, and moment closure for epidemic models. For more on their work see <a href="https://scholar.google.com/citations?user=wnB8pTkAAAAJ&amp;hl=en">here</a> for their published research.</p>
+<p>A recording of this talk will be posted to our <a href="https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ">YouTube channel</a> and asynchronous discussion will be possible on <a href="https://community.epinowcast.org/c/meetings/8">our community site</a>. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Beginning in May 2022, Mpox virus spread rapidly in high-income countries through close human-to-human contact primarily amongst communities of gay, bisexual and men who have sex with men (GBMSM). The epidemiology of Mpox in the United Kingdom suggested that a full network model of sexual contacts could be an appropriate modelling framework for making inferences on key quantities (e.g.&nbsp;the risk of transmission per contact), generating probabilistic forecasts of the future Mpox trajectory and performing scenario-based projections. However, full network models are computationally intensive and complicated to calibrate, which in practical terms makes them difficult to operationalize. We present a stochastic discrete-population transmission model which includes GBMSM status, rate of formation of new sexual partnerships. The social structure underlying the transmission of Mpox was represented as a randomly sized clique partitioning of the population; which was inferred along with other parameters. Moreover, given increasingly wide-spread public awareness of Mpox over the summer of 2022, it seemed possible that actions taken by the public aimed at decreasing personal risk of contracting Mpox could impact the epidemic curve in the United Kingdom. Towards capturing this public response to the epidemic, we considered both individual behaviour change and uptake of the modified Vaccinia-based vaccine Imvanex/Jynneos.</p>
+</section>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the <a href="https://community.epinowcast.org/c/meetings/8">Meeting category</a>.</p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2023-11-01-samuel-brand/</guid>
+  <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Billy Quilty - Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK</title>
+  <link>https://epinowcast.org/seminars/2023-10-04-billy-quilty/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 4th of October at 2pm UK time Billy Quilty will be talking about “Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK”.</p>
+<p>In this talk, Billy will explore how modelling and randomised controlled trials informed national policy on the use of rapid testing in contact tracing during the COVID-19 pandemic in the UK.</p>
+<p>Billy Quilty is a research fellow in infectious disease epidemiology and dynamics at LSHTM. His research focuses on assessing the impact of interventions such as vaccination and testing on transmission through statistical and mathematical modelling. He was a founding member of the <a href="https://cmmid.github.io/topics/covid19/">CMMID COVID-19 working group</a>, and worked on modelling the COVID-19 pandemic from Janurary 2020 for which they recieved a SPI-M-O award for modelling and data support along with international recognition. For more on their work see <a href="https://scholar.google.com/citations?user=YqjU048AAAAJ&amp;hl=en">here</a> for their published research.</p>
+<p>A recording of this talk will be posted to <a href="https://community.epinowcast.org/c/meetings/8">our community site</a> a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2023-10-04-billy-quilty/</guid>
+  <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sang Woo Park - Generation and serial intervals in epidemics</title>
+  <link>https://epinowcast.org/seminars/2023-09-06-sang-woo-park/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 6th of September at 2pm UK time Sang Woo Park will be talking about “Generation and serial intervals in epidemics”.</p>
+<p>The generation interval is the time between when an individual becomes infected and when they infect another person, but measuring it can be difficult, so serial intervals are often used instead. In this talk, Sang Woo will explain how generation and serial intervals can vary across time and space during an epidemic and how different interventions affect their distributions.</p>
+<p>Sang Woo is a computational biologist developing mathematical theory and statistical methods for predictions of infectious disease outbreaks through the analysis of multivariate time series. They are currently pursuing a Ph.D.&nbsp;degree at Princeton University, expecting to graduate in May 2024. Their focus areas include time-series analysis, parameter estimation, optimization, and Bayesian inference. For more on their work see <a href="https://www.linkedin.com/in/parksw3/">here</a> or <a href="https://scholar.google.ca/citations?user=ZSCrs78AAAAJ&amp;hl=en">here</a> for their published research.</p>
+<p>A recording of this talk will be posted to <a href="https://community.epinowcast.org/c/meetings/8">our community site</a> a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The generation interval, defined as the time between when an individual becomes infected and when they infect another person, is a fundamental quantity describing the infection process. However, measuring generation intervals in practice can be challenging because infection events are rarely observed. Instead, serial intervals, defined as the time between when an individual develops symptoms and when their infectee develops symptoms, are often used as a substitute. In this talk, I explain how generation and serial intervals can vary across time and space during an epidemic. I also discuss how different interventions affect their distributions.</p>
+</section>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2023-09-06-sang-woo-park/</guid>
+  <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>James Hay - The most important operator in infectious disease modeling, and how to use it with biomarker data</title>
+  <link>https://epinowcast.org/seminars/2023-07-05-james-hay/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 5th of July at 2pm UK time James Hay will be talking about “The most important operator in infectious disease modeling, and how to use it with biomarker data”</p>
+<p>James is a research fellow in the Nuffield Department of Medicine at the University of Oxford funded through a Wellcome Trust Early Career Award. Their expertise is in infectious disease modelling, with a specific interest in using novel data types to understand and track the dynamics of infectious diseases, particularly influenza and SARS-CoV-2. One example of their work is <a href="https://doi.org/10.1126/science.abh0635">“Estimating epidemiologic dynamics from cross-sectional viral load distributions”</a>. In this work, infection incidence was estimated using the time-varying distribution of cycle threshold values from routine RT-qPCR hospital testing.</p>
+<p>James completed their PhD at Imperial College in 2019 and spent three years as a postdoc at the Harvard Chan School of Public Health. Before that, their undergraduate degree was in Natural Sciences (Zoology) at the University of Cambridge, followed by an MSc in Computing Science at Imperial College. For more on James work see <a href="https://www.bdi.ox.ac.uk/Team/james-hay">here</a> or <a href="https://scholar.google.com/citations?hl=en&amp;user=QroZi-IAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">here</a> for their published research.</p>
+<p>A recording of this talk will be posted to <a href="https://community.epinowcast.org/c/meetings/8">our community site</a> a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2023-07-05-james-hay/</guid>
+  <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Katelyn Gostic - CFA: A new center at the US CDC focused on building response-ready modeling tools</title>
+  <link>https://epinowcast.org/seminars/2023-06-07-katelyn-gostic/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 7th of June at 2pm UK time Katelyn Gostic will be introducing the new US CDC <a href="https://www.cdc.gov/forecast-outbreak-analytics/index.html">Centre for Forecasting and Outbreak Analytics (CFA)</a>. <em>More details to follow</em></p>
+<p>Katelyn is the nowcasting and natural history team lead within the real-time analysis branch of the Predict arm of the new CFA centre. Prio to this they had a McDonnell Foundation Complex Systems Fellowship in the <a href="https://cobeylab.uchicago.edu/people/katie-gostic/">Cobey lab</a> researching immune processes that allow such biases in immune memory to develop. They also took part in the US COVID-19 response including writing an influential paper <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008409">“Practical considerations for measuring the effective reproductive number”</a>. You can read more of Kateyln’s work <a href="https://scholar.google.com/citations?user=KWlW3kUAAAAJ">here</a>.</p>
+<p>A recording of this talk will be posted to <a href="https://community.epinowcast.org/c/meetings/8">our community site</a> a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>More details about this seminar series are available <a href="../../seminars.html">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2023-06-07-katelyn-gostic/</guid>
+  <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kelly Charniga - Nowcasting and Forecasting the 2022 U.S. Mpox Outbreak: Support for Public Health Decision Making and Lessons Learned</title>
+  <link>https://epinowcast.org/seminars/2023-05-03-kelly-charniga/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On Wednesday the 3rd of May at 2pm UK time Kelly Charniga will be walking through their experience of nowcasting and forecasting the 2022 US. Mpox outbreak and highlighting some lessons learnt.</p>
+<p>Kelly is a Prevention Effectiveness Fellow at the US CDC. Prior to this they conducted a PhD focussed on the 2014-2017 Zika and Chikungunya epidemics in Columbia using spatial interaction models to explore the spatial and temporal invasion dynamics of epidemics. Read more of Kelly’s work <a href="https://scholar.google.com/citations?user=OKbTKFUAAAAJ">here</a>.</p>
+<p>A recording of this talk will be posted to <a href="https://community.epinowcast.org/t/community-seminar-2023-05-03-kelly-charniga-nowcasting-and-forecasting-the-2022-u-s-mpox-outbreak-support-for-public-health-decision-making-and-lessons-learned/146/1">our community site</a> a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there.</p>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>In June of 2022, the U.S. Centers for Disease Control and Prevention (CDC) Mpox Response wanted timely answers to important epidemiological questions which can now be answered more effectively through infectious disease modeling. Infectious disease models have shown to be valuable tool for decision making during outbreaks; however, model complexity often makes communicating the results and limitations of models to decision makers difficult. We performed nowcasting and forecasting for the 2022 mpox outbreak in the United States using the R package EpiNow2. We generated nowcasts/forecasts at the national level, by Census region, and for jurisdictions reporting the greatest number of mpox cases. Modeling results were shared for situational awareness within the CDC Mpox Response and publicly on the CDC website. We retrospectively evaluated forecast predictions at four key phases during the outbreak using three metrics, the weighted interval score, mean absolute error, and prediction interval coverage. We compared the performance of EpiNow2 with a naïve Bayesian generalized linear model (GLM). The EpiNow2 model had less probabilistic error than the GLM during every outbreak phase except for the early phase. We share our experiences with an existing tool for nowcasting/forecasting and highlight areas of improvement for the development of future tools. We also reflect on lessons learned regarding data quality issues and adapting modeling results for different audiences.</p>
+</section>
+<section id="connect-to-seminars" class="level2">
+<h2 class="anchored" data-anchor-id="connect-to-seminars">Connect to seminars</h2>
+<p>You can sign up for our event calendar here: <a href="https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Google calendar</a></p>
+<p>Or here for non-Google calendar users: <a href="https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics">ICAL link</a></p>
+<p>Or just join seminars directly here: <a href="https://lshtm.zoom.us/j/8290218109">https://lshtm.zoom.us/j/8290218109</a></p>
+<p>More details about this seminar series are available <a href="../..seminars.qmd">here</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://epinowcast.org/seminars/2023-05-03-kelly-charniga/</guid>
+  <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

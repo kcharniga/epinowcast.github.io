@@ -1,0 +1,429 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic\n\n\n\n\n\n\npaper-summary\n\n\nepidemic-prepardnesss\n\n\nevaluation\n\n\n\n\n\n\n\n\n\nJun 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nLessons learned from collaborative nowcasting of COVID-19 hospitalizations in Germany\n\n\n\n\n\n\npaper-summary\n\n\nnowcasting\n\n\nevaluation\n\n\n\n\n\n\n\n\n\nMay 8, 2023\n\n\nJohannes Bracher\n\n\n\n\n\n\n\n\n\n\n\n\nepinowcast 0.2.1\n\n\n\n\n\n\nepinowcast\n\n\nreleases\n\n\npackages\n\n\n\n\n\n\n\n\n\nMay 2, 2023\n\n\nSam Abbott\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "help.html",
+    "href": "help.html",
+    "title": "Getting help",
+    "section": "",
+    "text": "Real-time infectious disease modelling can be challenging and we often need to produce results on a short timeline. Whilst we have tried to make our tooling as easy to use as possible there will inevitably be times when there are issues or even mistakes.\nLuckily as a community we are keen to help so don’t worry about reaching out. Below are some tips on how to do this effectively and where to ask."
+  },
+  {
+    "objectID": "help.html#how-to-ask-a-question",
+    "href": "help.html#how-to-ask-a-question",
+    "title": "Getting help",
+    "section": "How to ask a question",
+    "text": "How to ask a question\nAnswering questions can be time-consuming so making your question as easy as possible to understand is key.\nFor questions related to code this is why the first step is to create an easy to folloe reproducible example (or reprex). This can be a challenge but luckily there is a helpful package reprex to give you a hand. To get you started check out the great help page from the tidyverse and this nice issue from Ryan Teo which explores a bug he found with the epinowcast R package.\nFor questions related to theory or interpretation try to ask your question as clearly as possible. After writing it out review what you have written in order to check it is as easy to understand as possible."
+  },
+  {
+    "objectID": "help.html#where-to-ask",
+    "href": "help.html#where-to-ask",
+    "title": "Getting help",
+    "section": "Where to ask",
+    "text": "Where to ask\nNow you have your question in hand what do you do with it? Here are some options:\n\ncommunity.epinowcast.org This is a warm and welcoming place to ask questions, introduce yourself as a new community member, and discuss advances in the literature, other tools that are available, and potential use cases for real-time analysis methods.\nWe run a community Twitter account @epinowcast which will retweet questions asked on Twitter to our community. They are very nice as are their friends.\nIf you think you have found a bug, please follow the instructions on contributing to the community."
+  },
+  {
+    "objectID": "seminars/2023-09-06-sang-woo-park/index.html",
+    "href": "seminars/2023-09-06-sang-woo-park/index.html",
+    "title": "Sang Woo Park - Generation and serial intervals in epidemics",
+    "section": "",
+    "text": "On Wednesday the 6th of September at 2pm UK time Sang Woo Park will be talking about “Generation and serial intervals in epidemics”.\nThe generation interval is the time between when an individual becomes infected and when they infect another person, but measuring it can be difficult, so serial intervals are often used instead. In this talk, Sang Woo will explain how generation and serial intervals can vary across time and space during an epidemic and how different interventions affect their distributions.\nSang Woo is a computational biologist developing mathematical theory and statistical methods for predictions of infectious disease outbreaks through the analysis of multivariate time series. They are currently pursuing a Ph.D. degree at Princeton University, expecting to graduate in May 2024. Their focus areas include time-series analysis, parameter estimation, optimization, and Bayesian inference. For more on their work see here or here for their published research.\nA recording of this talk will be posted to our community site a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2023-09-06-sang-woo-park/index.html#abstract",
+    "href": "seminars/2023-09-06-sang-woo-park/index.html#abstract",
+    "title": "Sang Woo Park - Generation and serial intervals in epidemics",
+    "section": "Abstract",
+    "text": "Abstract\nThe generation interval, defined as the time between when an individual becomes infected and when they infect another person, is a fundamental quantity describing the infection process. However, measuring generation intervals in practice can be challenging because infection events are rarely observed. Instead, serial intervals, defined as the time between when an individual develops symptoms and when their infectee develops symptoms, are often used as a substitute. In this talk, I explain how generation and serial intervals can vary across time and space during an epidemic. I also discuss how different interventions affect their distributions."
+  },
+  {
+    "objectID": "seminars/2023-09-06-sang-woo-park/index.html#connect-to-seminars",
+    "href": "seminars/2023-09-06-sang-woo-park/index.html#connect-to-seminars",
+    "title": "Sang Woo Park - Generation and serial intervals in epidemics",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "seminars/2023-10-04-billy-quilty/index.html",
+    "href": "seminars/2023-10-04-billy-quilty/index.html",
+    "title": "Billy Quilty - Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK",
+    "section": "",
+    "text": "On Wednesday the 4th of October at 2pm UK time Billy Quilty will be talking about “Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK”.\nIn this talk, Billy will explore how modelling and randomised controlled trials informed national policy on the use of rapid testing in contact tracing during the COVID-19 pandemic in the UK.\nBilly Quilty is a research fellow in infectious disease epidemiology and dynamics at LSHTM. His research focuses on assessing the impact of interventions such as vaccination and testing on transmission through statistical and mathematical modelling. He was a founding member of the CMMID COVID-19 working group, and worked on modelling the COVID-19 pandemic from Janurary 2020 for which they recieved a SPI-M-O award for modelling and data support along with international recognition. For more on their work see here for their published research.\nA recording of this talk will be posted to our community site a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2023-10-04-billy-quilty/index.html#connect-to-seminars",
+    "href": "seminars/2023-10-04-billy-quilty/index.html#connect-to-seminars",
+    "title": "Billy Quilty - Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "seminars/2023-06-07-katelyn-gostic/index.html",
+    "href": "seminars/2023-06-07-katelyn-gostic/index.html",
+    "title": "Katelyn Gostic - CFA: A new center at the US CDC focused on building response-ready modeling tools",
+    "section": "",
+    "text": "On Wednesday the 7th of June at 2pm UK time Katelyn Gostic will be introducing the new US CDC Centre for Forecasting and Outbreak Analytics (CFA). More details to follow\nKatelyn is the nowcasting and natural history team lead within the real-time analysis branch of the Predict arm of the new CFA centre. Prio to this they had a McDonnell Foundation Complex Systems Fellowship in the Cobey lab researching immune processes that allow such biases in immune memory to develop. They also took part in the US COVID-19 response including writing an influential paper “Practical considerations for measuring the effective reproductive number”. You can read more of Kateyln’s work here.\nA recording of this talk will be posted to our community site a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2023-06-07-katelyn-gostic/index.html#connect-to-seminars",
+    "href": "seminars/2023-06-07-katelyn-gostic/index.html#connect-to-seminars",
+    "title": "Katelyn Gostic - CFA: A new center at the US CDC focused on building response-ready modeling tools",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "seminars/2023-07-05-james-hay/index.html",
+    "href": "seminars/2023-07-05-james-hay/index.html",
+    "title": "James Hay - The most important operator in infectious disease modeling, and how to use it with biomarker data",
+    "section": "",
+    "text": "On Wednesday the 5th of July at 2pm UK time James Hay will be talking about “The most important operator in infectious disease modeling, and how to use it with biomarker data”\nJames is a research fellow in the Nuffield Department of Medicine at the University of Oxford funded through a Wellcome Trust Early Career Award. Their expertise is in infectious disease modelling, with a specific interest in using novel data types to understand and track the dynamics of infectious diseases, particularly influenza and SARS-CoV-2. One example of their work is “Estimating epidemiologic dynamics from cross-sectional viral load distributions”. In this work, infection incidence was estimated using the time-varying distribution of cycle threshold values from routine RT-qPCR hospital testing.\nJames completed their PhD at Imperial College in 2019 and spent three years as a postdoc at the Harvard Chan School of Public Health. Before that, their undergraduate degree was in Natural Sciences (Zoology) at the University of Cambridge, followed by an MSc in Computing Science at Imperial College. For more on James work see here or here for their published research.\nA recording of this talk will be posted to our community site a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2023-07-05-james-hay/index.html#connect-to-seminars",
+    "href": "seminars/2023-07-05-james-hay/index.html#connect-to-seminars",
+    "title": "James Hay - The most important operator in infectious disease modeling, and how to use it with biomarker data",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html",
+    "href": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html",
+    "title": "Lessons learned from collaborative nowcasting of COVID-19 hospitalizations in Germany",
+    "section": "",
+    "text": "This blog post is based on a preprint we recently posted with a large authorship group. I will summarize my main takeaways from the project. The figures used here are all by Daniel Wolffram, the first author of the preprint (and a ggplot wizard). The paper is in turn based on a collaborative nowcasting platform we have been running since late 2021."
+  },
+  {
+    "objectID": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#the-indicator-and-the-challenge",
+    "href": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#the-indicator-and-the-challenge",
+    "title": "Lessons learned from collaborative nowcasting of COVID-19 hospitalizations in Germany",
+    "section": "The indicator and the challenge",
+    "text": "The indicator and the challenge\nDuring the COVID-19 pandemic, epidemiological indicators have become part of our everyday life. Early on, deaths were the only reliable measure in many places. Then, for a long time, we were staring at case numbers, and later measures of healthcare burden became central. In Germany, where I work, the 7-day COVID-19 hospitalization incidence became a central indicator in Fall 2021 (with thresholds linked to levels of non-pharmaceutical interventions). However, this indicator has its peculiarities and quickly prompted some public debate (see e.g., this automatic translation of a German-language news item). One difficulty (I’ll gloss over a few other questions) is its timeliness. The issue arises from its very definition: the 7-day hopitalization incidence is (roughly speaking) the number of people who were reported to have a positive COVID-19 test during said 7-day period and later, and not necessarily during the same 7 days, got admitted to hospital. So hospitalizations are counted by when a positive test rather than when the actual hospitalization was reported. This way, in addition to the classical reporting delay, a second delay is baked into the indicator - the time it takes from a positive test to hospitalization. As a consequence, it can take a really long time until data are finally complete. Especially recent values are biased downwards and one can easily get the impression of a downward trend where there isn’t actually one. We therefore figured that statistical nowcasting - predicting what the numbers will look like once all data are complete - was a really relevant task here.\n\n\n\nIllustration of data updates and the nowcasting tasks. Coloured lines show data as available at different point in time. Blue lines and shaded areas show the nowcasts issued in real time. A clear downward dip at the end of each version of the time series is visible, which disappears when data are revised."
+  },
+  {
+    "objectID": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#the-collaborative-format",
+    "href": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#the-collaborative-format",
+    "title": "Lessons learned from collaborative nowcasting of COVID-19 hospitalizations in Germany",
+    "section": "The collaborative format",
+    "text": "The collaborative format\nIf you are in the epidemic modelling sphere, you may have come across the various COVID-19 Forecast Hubs which bring together epidemiological predictions from various models, systematically compare them and merge them into so-called ensembles. While one conclusion from these efforts is that predicting COVID-19 is really hard, a more positive finding is that combining different models can somewhat enhance performance (see e.g., here and here). When the political decision was taken to make the 7-day hospitalization incidence the main pandemic indicator in Germany, we figured it was an interesting setting to apply this approach to nowcasting. Specifically, we had two goals:\n\nWhile Robert Koch Institute, the German Federal Public Health Institute, was showing figures of nowcasts in its weekly reports, no operational and re-usable nowcasts were available to be displayed along with real-time data.\nWhen first looking into the problem, we realized that there was a large number of nowcasting methods, but little was known about their actual real-time behaviour nor their relative performance. Also, nobody had tried to combine several nowcasting models into an ensemble nowcast.\n\nWe therefore reached out to a few people we knew were working on related topics and set up a GitHub repository with pre-processed data as well as a visualization dashboard to make their contribution as easy as possible. People got on board astonishingly quickly and a few days later we had several nowcasting models up and running, and posted a study protocol for our methods comparison."
+  },
+  {
+    "objectID": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#the-lessons",
+    "href": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#the-lessons",
+    "title": "Lessons learned from collaborative nowcasting of COVID-19 hospitalizations in Germany",
+    "section": "The lessons",
+    "text": "The lessons\nIf you are interested in the detailed results our preprint has you covered. I’ll just say a few words about my main learnings:\n\nReassuringly, all models we considered were doing something reasonable (see figure), and most of the time they were able to give a realistic idea of current trends. Every now and then, nowcasts were also considerably off. Typically, that happened when reporting practices changed, and most models were affected in a similar manner.\nOne of the main challenges was to get weekday effects under control (there are two of them - one for the date of positive test, one for the date of hospitalization). Our purposefully simple “reference model” KIT does not take this aspect into account and consequently looks like an ill-calibrated cardiogram.\n\n\n\n\nSame-day nowcasts (with a horizon of 0 days) of the 7-day hospitalization incidence as issued on each day of the study period. Nowcasts are shown for the German national level pooled across all age groups.\n\n\n\nUncertainty quantification turned out to be tricky. Almost none of the models issued prediction intervals reaching nominal coverage levels. One important learning was that purely model-based uncertainty quantification (like your model’s predictive posterior distribution) does not work all that well in practice. Two approaches which looked at errors of past nowcasts fared much better (sort of poor man’s versions of conformal prediction).\nDefining a nowcasting target is not as trivial as it seems. We somewhat naively defined it as “the final version of the time series”, which in practice we assumed would be available 100 days after the last day for which we generated nowcasts. However, it turned out that the data were still changing after these 100 days. Only slightly, but enough to have an impact on results. Looking back, rather than using the data version available on a specified date, a better idea might have been to define the target as all hospitalizations reported with a maximum delay of, say, 40 days.\nAs in similar previous projects, combined emsemble predictions showed promising results. On our pre-specified original target, they actually came in second and were beaten quite clearly by one of the individual models. That, however, seemed to be due to a peculiar overlay of a few different biases working in different directions (it’s a long discussion, check out the paper). Personally I am optimistic that across different settings there is something to be gained from ensemble nowcasts."
+  },
+  {
+    "objectID": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#how-nowcasts-have-been-used",
+    "href": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#how-nowcasts-have-been-used",
+    "title": "Lessons learned from collaborative nowcasting of COVID-19 hospitalizations in Germany",
+    "section": "How nowcasts have been used",
+    "text": "How nowcasts have been used\nGiven the sudden prominence of the 7-day hospitalization incidence in the management of the pandemic in Germany, in fall and winter 2021 there was considerable interest in the nowcasts we made available. Many media outlets are now winding down their COVID dashboards, but e.g., at newspaper Die Zeit and public broadcaster NDR, the nowcasts are still routinely displayed in May 2023. Following some very productive exchange with colleagues from Robert Koch Institute, our platform has also been referred to in their weekly reports (accompanying their own nowcasts).\nAn interesting aspect in the exchange with data journalists was that they were sort of hesitant to use the ensemble nowcast. After all, it was based on a difficult-to-understand mix of methods, some of which not yet formally peer-reviewed. Understandably, for them it made sense to have one specific method to point to, published in a journal of known reputation. A positive experience was that at least some media outlets took care to communicate the uncertainty associated with nowcasts explicitly."
+  },
+  {
+    "objectID": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#the-aftermath",
+    "href": "posts/2023-05-08-collab-nowcasting-covid19-germany/index.html#the-aftermath",
+    "title": "Lessons learned from collaborative nowcasting of COVID-19 hospitalizations in Germany",
+    "section": "The aftermath",
+    "text": "The aftermath\nOur multi-model nowcasting system is still up and running. As it requires close to no human intervention at this stage (apart from fixing occasional data hiccups), we will likely maintain it until the data source is wound down. There are also a few follow up projects, like the RESPINOW project on other relevant respiratory pathogens, and the epinowcast community on real-time analysis of infectious disease data (if you are reading this blog post, you likely already know epinowcast, but it’s great and you should definitely check out the ways of getting involved).\nTo conclude I’ll mention that I am currettly hiring for a Research Associate / PhD student position (also check this thread on Twitter). Please reach out to me if you are interested in real-time analysis of epidemiological data!\nFor a discussion of this work see our community forum (here)."
+  },
+  {
+    "objectID": "posts/2023-05-02-epinowcast-0.1.2-release/index.html",
+    "href": "posts/2023-05-02-epinowcast-0.1.2-release/index.html",
+    "title": "epinowcast 0.2.1",
+    "section": "",
+    "text": "In this release, we focused on improving the internal code structure, documentation, and development infrastructure of the package to make it easier to maintain and extend functionality in the future. We also fixed a number of bugs and made some minor improvements to the interface. These changes included extending test and documentation coverage across all package functions, improving internal data checking and internalization, and removing some deprecated functions.\nWhile these changes are not expected to impact most users, we recommend that all users upgrade to this version. We also suggest that users who have fitted models with both random effects and random walks should refit these models and compare the output to previous fits in order to understand the impact of a bug in the specification of these models that was fixed in this release.\nThis release lays the groundwork for planned features in 0.3.0 and 0.4.0 including: support for non-parametric delays, non-daily data with a non-daily process model (i.e. weekly data with a weekly process model), additional flexibility specifying generation times and latent reporting delays, improved case studies, and adding support for forecasting.\nFull details on the changes in this release can be found in the package release notes or in the GitHub release notes. To see the development timeline of this release see the 0.2.1 project."
+  },
+  {
+    "objectID": "posts/2023-05-02-epinowcast-0.1.2-release/index.html#contributors",
+    "href": "posts/2023-05-02-epinowcast-0.1.2-release/index.html#contributors",
+    "title": "epinowcast 0.2.1",
+    "section": "Contributors",
+    "text": "Contributors\n@adrian-lison, @Bisaloo, @pearsonca, @FelixGuenther, @Lnrivas, @seabbs, @sbfnk, and @jhellewell14 made code contributions to this release.\n@pearsonca, @Bisaloo, @adrian-lison, and @seabbs reviewed pull requests for this release.\n@Gulfa, @WardBrian, @parkws3, @adrian-lison, @Bisaloo, @pearsonca, @FelixGuenther, @Lnrivas, @seabbs, @sbfnk and @jhellewell14 reported bugs, made suggestions, or contributed to discussions that led to improvements in this release."
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "Contribute to Epinowcast",
+    "section": "",
+    "text": "We strongly believe that the challenges we face in the real-time analysis of infectious disease can only be overcome as a community.\nWe can only function with contributions from our members. No matter your skills or background contributions are welome."
+  },
+  {
+    "objectID": "contribute.html#take-part-in-community-discussions",
+    "href": "contribute.html#take-part-in-community-discussions",
+    "title": "Contribute to Epinowcast",
+    "section": "Take part in community discussions",
+    "text": "Take part in community discussions\nThe easiest way to be involved is to show up to community meetings, join in community discussions, for example questions related to user experiences, ask questions, and let others know if you are working on similar problems. Join community.epinowcast.org to get started."
+  },
+  {
+    "objectID": "contribute.html#answer-questions",
+    "href": "contribute.html#answer-questions",
+    "title": "Contribute to Epinowcast",
+    "section": "Answer questions",
+    "text": "Answer questions\nThe next step is consider answering questions related to your expertise. This could be helping out with using our tools or it could be domain expertise you can share with others. Remeber we are a caring community and some people asking questions may not know best practices. Try to be friendly and considerate. If you think it might help consider pointing new question askers to our help page."
+  },
+  {
+    "objectID": "contribute.html#file-issues",
+    "href": "contribute.html#file-issues",
+    "title": "Contribute to Epinowcast",
+    "section": "File issues",
+    "text": "File issues\nIf you’ve found a bug, first create a minimal reprex. Make sure to spend time making it as easy to understand as possible. Then file it on the GitHub repository for the package."
+  },
+  {
+    "objectID": "contribute.html#contribute-documentation",
+    "href": "contribute.html#contribute-documentation",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute documentation",
+    "text": "Contribute documentation\nIf you are a bit more experienced, and ready to make pull requests then expanding or improving our documentation is very helpful. The key to adding documentation is that we use the roxygen2 package when documenting R code. This means that documentation is found alongside the R code and there are some special tags."
+  },
+  {
+    "objectID": "contribute.html#contribute-code",
+    "href": "contribute.html#contribute-code",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute code",
+    "text": "Contribute code\nIf you are more experienced, you might want to help with package development. The first step to making code contributions is to make an issue or comment on the issue you plan to address. When implementing your contribution remember to follow the package conventions."
+  },
+  {
+    "objectID": "contribute.html#contribute-methodology",
+    "href": "contribute.html#contribute-methodology",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute methodology",
+    "text": "Contribute methodology\nAs a research community, we are interested in improving the underlying basis of our tools and methods. If you have a suggestion for a methodological improvement, or an extension please share it with our community as a project proposal."
+  },
+  {
+    "objectID": "contribute.html#contribute-evaluations-and-case-studies",
+    "href": "contribute.html#contribute-evaluations-and-case-studies",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute evaluations and case studies",
+    "text": "Contribute evaluations and case studies\nOur tools and methods are designed to be flexible. We don’t know what the best models are for different types of question. If you have an evaluation of our methods or a case study implementing them we would be keen to see them and this will likely help others as well as informing future developments. Share these with our community here and here."
+  },
+  {
+    "objectID": "contribute.html#contribute-alternatives",
+    "href": "contribute.html#contribute-alternatives",
+    "title": "Contribute to Epinowcast",
+    "section": "Contribute alternatives",
+    "text": "Contribute alternatives\nThe landscape of real-time infectious disease modelling is wide and we don’t have all the answers. If you come across a method or tool that answers similar questions to those we target, you think will interest our community, or that is just in scope and you’d like to discuss please share it here. If we get sufficient interest we are also keen on building a resource section to point communnity members to alternatives and other other resources they may find useful. If interested in taking this forward post here with ideas."
+  },
+  {
+    "objectID": "meetings.html",
+    "href": "meetings.html",
+    "title": "Community meetings",
+    "section": "",
+    "text": "We have a monthly virtual meeting where we discuss matters of interest to the community on the 3rd Wednesday of every month at 2pm UK time.\nThese are generally informal affairs with a rotating chair and an agenda discussed beforehand on our community site (in the meetings category).\nA typical meeting might include introductions for new attendees, discussions of recent community posts and projects, software development discussion related to a community package, an informal talk about a matter of interest, or just a general discussion. Please do attend if interested in the real-time modelling of infectious disease."
+  },
+  {
+    "objectID": "meetings.html#connect-to-meetings",
+    "href": "meetings.html#connect-to-meetings",
+    "title": "Community meetings",
+    "section": "Connect to meetings",
+    "text": "Connect to meetings\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join meetings directly here: https://lshtm.zoom.us/j/8290218109"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Epinowcast community",
+    "section": "",
+    "text": "We are a community of infectious disease modellers, applied epidemiologists, software developers, and others building a suite of tools for real-time analysis of infectious diseases. On top of developing these tools, we also do research on when they work and when they don’t, write case studies to showcase best practices, support users and decision-makers, and compare our work to that of others.\nWe strongly believe that the challenges we face in the real-time analysis of infectious disease can only be overcome as a community collaboration.\nWe are still in the early stages of building our community so now is a great time to jump in."
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "How are we funded",
+    "section": "",
+    "text": "This pages highlights funding we have recieved as a community as well as funding supporting our contributors. If you have made contributions supported by a funding source please add to this list."
+  },
+  {
+    "objectID": "funding.html#current-funding",
+    "href": "funding.html#current-funding",
+    "title": "How are we funded",
+    "section": "Current funding",
+    "text": "Current funding\n\nContributors\nSam Abbott is partially supported by the CDC Center for Forecasting and Outbreak Analytics and a Wellcome Trust Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z).\nSebastian Funk is supported by a Wellcome Trust Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z)."
+  },
+  {
+    "objectID": "funding.html#historic-funding",
+    "href": "funding.html#historic-funding",
+    "title": "How are we funded",
+    "section": "Historic funding",
+    "text": "Historic funding\n\nContributors\nFrom the start of the project (2021) to 2023 Sam Abbott was supported by a Wellcome Trust Senior Research Fellowship to Sebastian Funk (210758/Z/18/Z)."
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "",
+    "text": "This blog post reproduces an executive summary written by the authors of “Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic” which was sent to funding organisations, University executives, and senior members of Public Health organsiations."
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#authors",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#authors",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "Authors",
+    "text": "Authors\nKatharine Sherratt* (1), Anna C. Carnegie* (1), Adam Kucharski (1), Anne Cori (2), Carl A. B. Pearson (1, 3), Christopher I. Jarvis (1), Christopher Overton (4, 5, 6), Dale Weston (7), Edward M. Hill (8, 9), Edward Knock (2), Elizabeth Fearon (10), Emily Nightingale (1), Joel Hellewell (11), W. John Edmunds (1), Julián Villabona Arenas (1), Kiesha Prem (1, 12), Li Pi (13), Marc Baguelin (1, 2), Michelle Kendall (8), Neil Ferguson (2), Nicholas Davies (1), Rosalind M. Eggo (1), Sabine van Elsland (2), Timothy Russell (1, 11), Sebastian Funk (1), Yang Liu (1), Sam Abbott (1)\n* contributed equally\n\nCentre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, London, UK\nMRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK\nSouth African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA), Stellenbosch University, Stellenbosch, South Africa\nAll Hazards Intelligence, Data Analytics and Surveillance, UK Health Security Agency, London, UK\nDepartment of Mathematical Sciences, University of Liverpool, Liverpool, UK\nDepartment of Mathematics, University of Manchester, Manchester, UK\nEmergency Response Department Science & Technology Behavioural Science, UK Health Security Agency, London, UK\nWarwick Mathematics Institute and The Zeeman Institute for Systems Biology & Infectious Disease Epidemiology Research, University of Warwick, Coventry, UK\nJoint UNIversities Pandemic and Epidemiological Research, Multiple, UK\nInstitute for Global Health, University College London, London, UK\nEuropean Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK\nSaw Swee Hock School of Public Health, National University of Singapore, Singapore, Singapore\nBig Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK"
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#outline",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#outline",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "Outline",
+    "text": "Outline\nAs members of the infectious disease modelling community, we recognize the role we play in shaping effective epidemic responses. Our experiences throughout the COVID-19 pandemic have highlighted substantial challenges in our field, including psychological pressures, gaps in institutional support, and systemic issues that pervade the academic and research landscape. Motivated by these challenges and committed to improving future response efforts, we, a group of 27 members from the UK infectious disease modelling community, convened for a reflective workshop in March 2023. This summary distils the key issues we identified and proposes strategies that we believe can enhance the effectiveness of our field in future epidemic responses. A full report on our methods and findings, including the anonymised individual feedback from workshop participants that informed our findings, is available."
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#discussion-themes",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#discussion-themes",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "Discussion Themes",
+    "text": "Discussion Themes\nTo identify overarching themes, we started with paired discussions, with each participant sharing their personal and professional pandemic experiences for 15 minutes. We then aggregated pairs into groups of increasing size in order to generalise personal experiences into themes. This approach fostered an understanding of the individual experiences that constituted our collective response effort.\nFollowing these discussions, we collectively identified and categorised emergent issues for epidemic response work into themes. These were:\n\nFunding and institutional support: Participants reported insufficient institutional support and contract insecurity due to reliance on external grant funding, impacting both academic and professional services roles. Recognitions, rewards, and access: Current reward metrics were deemed inadequate, with unequal credit attribution and limited access to policy-making spaces.\nTeam and work dynamics: Issues included insufficient capacity, competing demands, barriers to progression, and both positive and negative aspects of collaborative working.\nNon-academic contributions: The importance of professional services staff and collaboration with public health agency workers were highlighted.\nPersonal impacts: Public recognition led to both increased visibility and challenges; mental ill health and burnout were prevalent; balancing work with personal commitments was difficult for many.\n\nWe recognise that many of these issues impact those in our field outside of an epidemic response but believe that they are a particular issue for work of this kind. We also acknowledge that the COVID-19 pandemic has engendered widespread hardship, stress, and ill health throughout various populations, and it is crucial to reflect on and address these profound impacts across all strata of society, not just in our community."
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#priority-recommendations",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#priority-recommendations",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "Priority recommendations",
+    "text": "Priority recommendations\nThe workshop proposed the following priority recommendations to improve support and sustainability for future epidemic response work:\n\nAcknowledge and reward impactful response work at institution, funder, and research community levels. For example, refining impact measures to credit all forms of output produced during, and required for, response work; institutions could incorporate response-driven work into criteria for doctoral theses and promotion.\nEncourage routine interaction between academia and public health agencies, including consistently reviewing the appropriate allocation of epidemic response tasks. One potential solution is creating sustainable dual positions recruiting from both sectors.\nEnsure response teams are well-staffed, well-resourced, stable, and provided psychological support. This approach reduces dependence on key individuals. One approach is to establish sustainable team-building and training programmes during non-response periods.\nIncrease the transparency of the evidence pathway from scientists to decision-makers. This makes it easier for those across the scientific community to contribute as well as making the evidence base for decisions clearer to the general public. This could be achieved by standardising rapid open access to the minutes of scientific advisory meetings.\nImplement best practices for a sustainable work environment. Employers and team leads can promote leave-taking and respecting work hours, clarify communication about processes and rewards across career stages, prepare for, and standardise, the onboarding of new team members, and integrate support roles.\n\nAchieving these changes necessitates investment from governments, funding bodies, and institutions. Teams may need to redefine their working methods to place greater emphasis on well-being, training, and career development. While localised initiatives require time investment from those leading them, they must be supported to foster a healthier and more sustainable environment for future epidemic response work.\nAs it stands, future epidemic responses are likely to raise similar challenges to those we have identified here, including reliance on a select number of individuals, excessive workloads and the exacerbation of systemic inequalities. It is critical we act outside of response contexts, for example by implementing the recommendations we have outlined, to mitigate these issues and respond more effectively in future."
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#strengths-of-these-themes-recommendations",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#strengths-of-these-themes-recommendations",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "Strengths of these themes & recommendations",
+    "text": "Strengths of these themes & recommendations\n\nThe insights are deeply rooted in the experiences of the UK modelling community, providing authentic, community-driven perspectives.\nThe workshop included participants from various career stages and perspectives, bolstering its diversity of views.\nAn external facilitator and prior community input ensured a safe and relevant discussion environment."
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#limitations-of-these-themes-recommendations",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#limitations-of-these-themes-recommendations",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "Limitations of these themes & recommendations",
+    "text": "Limitations of these themes & recommendations\n\nParticipant representation was restricted due to the one-day workshop format and limitations on who could attend in person.\nAttendees were predominantly from London and South East of England, potentially due to restricted travel support.\nDespite efforts, few individuals who left the infectious disease modelling field were present, possibly omitting crucial perspectives.\nConsequently, the findings may not fully represent the breadth of experiences, especially the most challenging ones, and could be more moderate than if a wider range of participants attended.\nTherefore, these insights should be considered as a summary of a small group’s experiences and opinions, acknowledging potential variations across different locations and groups. Further investigations in other locations are recommended to broaden the scope of findings."
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#acknowledgements",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#acknowledgements",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nWe wish to acknowledge the support of the following individuals in the development of this project: Rosanna Barnard, Ciara Dangerfield, Dale Weston, Anne Cori, Joel Hellewell, Charlotte Hall, Rosalind Eggo, Stefan Flasche, Sebastian Funk, Mark Jit, Graham Medley, and external facilitator, Janice McNamara.\nWe also wish to thank everyone who so graciously shared their experiences at this event and those that completed the online survey."
+  },
+  {
+    "objectID": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#funding",
+    "href": "posts/2023-06-18-improving-modelling-for-epidemic-responses/index.html#funding",
+    "title": "Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic",
+    "section": "Funding",
+    "text": "Funding\nThis project received funding from: The LSHTM COVID-19 response fund, the National Institute for Health and Care Research (NIHR) Health Protection Research Unit in Modelling and Health Economics (grant code NIHR200908), LSHTM’s Department of Infectious Disease Epidemiology, Professor John Edmunds, and The Centre for Mathematical Modelling of Infectious Diseases (CMMID) at LSHTM. Disclaimer: “The views expressed are those of the author(s) and not necessarily those of the NIHR, UK Health Security Agency or the Department of Health and Social Care.\nKS, SA, SF funded by Wellcome Trust (grant number 200901/Z/16/Z). MK funded by NIHR, HPRU in Genomics and Enabling Data (grant number NIHR200892). ND funded by National Institute for Health Research (NIHR) Health Protection Research Unit in Modelling and Health Economics (grant code NIHR200908). SvE funded by MRC Centre for Global Infectious Disease Analysis (reference MR/R015600/1), jointly funded by the UK Medical Research Council (MRC) and the UK Foreign, Commonwealth & Development Office (FCDO), under the MRC/FCDO Concordat agreement and the EDCTP2 programme supported by the European Union."
+  },
+  {
+    "objectID": "seminars/2024-03-05-tomas-leon/index.html",
+    "href": "seminars/2024-03-05-tomas-leon/index.html",
+    "title": "Tomás León - CalCAT: Past, Present, and Future for California’s Use of Infectious Disease Modeling in Public Health Response",
+    "section": "",
+    "text": "On Wednesday the 6th of March at 3pm UK time, Tomás León will be talking about California’s use of infectious disease modeling in public health response.\nIn this talk, Tomás will discuss CalCAT, a public-facing modeling hub for California and its counties, which was launched with partners in 2020 as part of the COVID-19 response. He will also talk about the Modeling and Advanced Analytics Team, which was founded during the pandemic to synthesize modeling results being generated and produce internal modeling products to support the state’s public health response activities.\nTomás León is the Modeling Section Chief at the California Department of Public Health (CDPH). Before joining CDPH as part of the COVID-19 response in 2020, he was a researcher at the University of California, Berkeley, who focused on macroparasite modeling and modeling related to the ecology of mosquito-borne diseases. His current focus is on expanding the use of infectious disease modeling tools at CDPH for public health decision making and integrating best modeling practices in collaboration with external partners. For more on his work see here.\nA recording of this talk will be posted to our YouTube channel and asynchronous discussion will be possible on our community site. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2024-03-05-tomas-leon/index.html#connect-to-seminars",
+    "href": "seminars/2024-03-05-tomas-leon/index.html#connect-to-seminars",
+    "title": "Tomás León - CalCAT: Past, Present, and Future for California’s Use of Infectious Disease Modeling in Public Health Response",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nTo get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the Meeting category.\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "seminars/2024-02-14-chris-overton/index.html",
+    "href": "seminars/2024-02-14-chris-overton/index.html",
+    "title": "Chris Overton - Nowcasting the 2022 Mpox outbreak in England",
+    "section": "",
+    "text": "On Wednesday the 14th of February at 3pm UK time Chris Overton will be talking about “Nowcasting the 2022 Mpox outbreak in England”.\nIn this talk, Chris will discuss the challenge of nowcasting the Mpox epidemic in the United Kingdom in real-time. See here for the preprint of the paper he will be discussing.\nChris Overton is a lecturer for healthcare at the University of Liverpool and an infectious disease modeller at the United kingdom Health Security Agency. His research interests include the development of mathematical models to understand the transmission dynamics of infectious diseases, and the use of these models to inform public health policy. He has worked on a range of infectious diseases including influenza, SARS-CoV-2, and Mpox. He is particularly interested in the use of real-time data to inform the nowcasting and forecasting of infectious disease outbreaks. For more on his work see here. A recording of this talk will be posted to our YouTube channel and asynchronous discussion will be possible on our community site. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2024-02-14-chris-overton/index.html#connect-to-seminars",
+    "href": "seminars/2024-02-14-chris-overton/index.html#connect-to-seminars",
+    "title": "Chris Overton - Nowcasting the 2022 Mpox outbreak in England",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nTo get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the Meeting category.\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "seminars/2023-05-03-kelly-charniga/index.html",
+    "href": "seminars/2023-05-03-kelly-charniga/index.html",
+    "title": "Kelly Charniga - Nowcasting and Forecasting the 2022 U.S. Mpox Outbreak: Support for Public Health Decision Making and Lessons Learned",
+    "section": "",
+    "text": "On Wednesday the 3rd of May at 2pm UK time Kelly Charniga will be walking through their experience of nowcasting and forecasting the 2022 US. Mpox outbreak and highlighting some lessons learnt.\nKelly is a Prevention Effectiveness Fellow at the US CDC. Prior to this they conducted a PhD focussed on the 2014-2017 Zika and Chikungunya epidemics in Columbia using spatial interaction models to explore the spatial and temporal invasion dynamics of epidemics. Read more of Kelly’s work here.\nA recording of this talk will be posted to our community site a week after it is scheduled to take place. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2023-05-03-kelly-charniga/index.html#abstract",
+    "href": "seminars/2023-05-03-kelly-charniga/index.html#abstract",
+    "title": "Kelly Charniga - Nowcasting and Forecasting the 2022 U.S. Mpox Outbreak: Support for Public Health Decision Making and Lessons Learned",
+    "section": "Abstract",
+    "text": "Abstract\nIn June of 2022, the U.S. Centers for Disease Control and Prevention (CDC) Mpox Response wanted timely answers to important epidemiological questions which can now be answered more effectively through infectious disease modeling. Infectious disease models have shown to be valuable tool for decision making during outbreaks; however, model complexity often makes communicating the results and limitations of models to decision makers difficult. We performed nowcasting and forecasting for the 2022 mpox outbreak in the United States using the R package EpiNow2. We generated nowcasts/forecasts at the national level, by Census region, and for jurisdictions reporting the greatest number of mpox cases. Modeling results were shared for situational awareness within the CDC Mpox Response and publicly on the CDC website. We retrospectively evaluated forecast predictions at four key phases during the outbreak using three metrics, the weighted interval score, mean absolute error, and prediction interval coverage. We compared the performance of EpiNow2 with a naïve Bayesian generalized linear model (GLM). The EpiNow2 model had less probabilistic error than the GLM during every outbreak phase except for the early phase. We share our experiences with an existing tool for nowcasting/forecasting and highlight areas of improvement for the development of future tools. We also reflect on lessons learned regarding data quality issues and adapting modeling results for different audiences."
+  },
+  {
+    "objectID": "seminars/2023-05-03-kelly-charniga/index.html#connect-to-seminars",
+    "href": "seminars/2023-05-03-kelly-charniga/index.html#connect-to-seminars",
+    "title": "Kelly Charniga - Nowcasting and Forecasting the 2022 U.S. Mpox Outbreak: Support for Public Health Decision Making and Lessons Learned",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "seminars/2023-12-06-rebecca-borchering/index.html",
+    "href": "seminars/2023-12-06-rebecca-borchering/index.html",
+    "title": "Rebecca Borchering - Informing short term forecasts of categorical trends in confirmed influenza hospital admissions in the US using real-time effective reproduction number estimates",
+    "section": "",
+    "text": "On Wednesday the 6th of December at 3pm UK time Rebecca Borchering will be talking about “Informing short term forecasts of categorical trends in confirmed influenza hospital admissions in the US using real-time effective reproduction number estimates”.\nRebecca Borchering is a Mathematical Statistician leading influenza modeling and forecasting efforts, such as the FluSight influenza forecasting collaboration, in the Applied Research and Modeling Team in the Influenza Division of the US Centers for Disease Control. They were a founding member of the COVID-19 Scenario Modeling Hub and have experience modeling infectious disease dynamics in multiple pathogen systems. Rebecca was also part of a team that recently published a CDC technical blog on improving the CDC’s tool for assessing epidemic growth. For more on their work see here for their published research.\nA recording of this talk will be posted to our YouTube channel and asynchronous discussion will be possible on our community site. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2023-12-06-rebecca-borchering/index.html#connect-to-seminars",
+    "href": "seminars/2023-12-06-rebecca-borchering/index.html#connect-to-seminars",
+    "title": "Rebecca Borchering - Informing short term forecasts of categorical trends in confirmed influenza hospital admissions in the US using real-time effective reproduction number estimates",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nTo get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the Meeting category.\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "seminars/2023-11-01-samuel-brand/index.html",
+    "href": "seminars/2023-11-01-samuel-brand/index.html",
+    "title": "Samuel Brand - Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population",
+    "section": "",
+    "text": "On Wednesday the 1st of November at 2pm UK time Samuel Brand will be talking about “Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population”.\nIn this talk, Sam will discuss the challenge of modeling the Mpox epidemic in the United Kingdom (see the abstract below for more details).\nSamuel Brand is currently a senior data scientist consulting with Goldbelt to support the Center for Forecasting and Outbreak Analytics at the US CDC. Prior to this they were a Post-doctoral Research Assistant at the University of Warwick where their research focussed on transmission pathways for respiratory viruses in low- and middle- income countries, mainly respiratory syncytial virus (RSV) and SARS-CoV-2. Their wider interests include: the phylodynamics of respiratory viruses, diseases of livestock (in particular Bluetongue virus; BTV), vector-borne diseases with climatic forcing (in particular the European spread of BTV), optimal vaccination in reaction to a developing epidemic, efficient simulation of large stochastic and spatial models of epidemics, household-structured epidemic models, inferring latent variables within epidemic models, and moment closure for epidemic models. For more on their work see here for their published research.\nA recording of this talk will be posted to our YouTube channel and asynchronous discussion will be possible on our community site. You can also ask questions ahead of time and asynchronously there."
+  },
+  {
+    "objectID": "seminars/2023-11-01-samuel-brand/index.html#abstract",
+    "href": "seminars/2023-11-01-samuel-brand/index.html#abstract",
+    "title": "Samuel Brand - Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population",
+    "section": "Abstract",
+    "text": "Abstract\nBeginning in May 2022, Mpox virus spread rapidly in high-income countries through close human-to-human contact primarily amongst communities of gay, bisexual and men who have sex with men (GBMSM). The epidemiology of Mpox in the United Kingdom suggested that a full network model of sexual contacts could be an appropriate modelling framework for making inferences on key quantities (e.g. the risk of transmission per contact), generating probabilistic forecasts of the future Mpox trajectory and performing scenario-based projections. However, full network models are computationally intensive and complicated to calibrate, which in practical terms makes them difficult to operationalize. We present a stochastic discrete-population transmission model which includes GBMSM status, rate of formation of new sexual partnerships. The social structure underlying the transmission of Mpox was represented as a randomly sized clique partitioning of the population; which was inferred along with other parameters. Moreover, given increasingly wide-spread public awareness of Mpox over the summer of 2022, it seemed possible that actions taken by the public aimed at decreasing personal risk of contracting Mpox could impact the epidemic curve in the United Kingdom. Towards capturing this public response to the epidemic, we considered both individual behaviour change and uptake of the modified Vaccinia-based vaccine Imvanex/Jynneos."
+  },
+  {
+    "objectID": "seminars/2023-11-01-samuel-brand/index.html#connect-to-seminars",
+    "href": "seminars/2023-11-01-samuel-brand/index.html#connect-to-seminars",
+    "title": "Samuel Brand - Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nTo get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the Meeting category.\nMore details about this seminar series are available here."
+  },
+  {
+    "objectID": "seminars.html",
+    "href": "seminars.html",
+    "title": "Real-time infectious disease modelling seminars",
+    "section": "",
+    "text": "We run a monthly virtual seminar focussing on real-time modelling of infectious disease with the primary aim of connecting between different silos of knowledge (i.e. between mathematical modellers, statisticians, decision-makers, epidemiologists, and others).\nThis takes place on the first Wednesday of every month at 3pm UK time with recordings posted a week later on our community site alongside any discussion of the seminar.\nWe generally aim to fill the scheduled hour with talks ranging from 20-40 minutes followed by questions and community discussion.\nYou can see a list of scheduled speakers here. If interested in speaking yourself, or in helping to organise this seminar series, please reach out to Sam Abbott or Kelly Charniga (the current organisers).\nPlease do attend if interested in the real-time modelling of infectious disease."
+  },
+  {
+    "objectID": "seminars.html#connect-to-seminars",
+    "href": "seminars.html#connect-to-seminars",
+    "title": "Real-time infectious disease modelling seminars",
+    "section": "Connect to seminars",
+    "text": "Connect to seminars\nYou can sign up for our event calendar here: Google calendar\nOr here for non-Google calendar users: ICAL link\nOr follow this RSS feed.\nOr just join seminars directly here: https://lshtm.zoom.us/j/8290218109\nTo get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the Meeting category."
+  },
+  {
+    "objectID": "seminars.html#upcoming-and-previous-seminars",
+    "href": "seminars.html#upcoming-and-previous-seminars",
+    "title": "Real-time infectious disease modelling seminars",
+    "section": "Upcoming and previous seminars",
+    "text": "Upcoming and previous seminars\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nMay 3, 2023\n\n\nKelly Charniga - Nowcasting and Forecasting the 2022 U.S. Mpox Outbreak: Support for Public Health Decision Making and Lessons Learned\n\n\n\n\nJun 7, 2023\n\n\nKatelyn Gostic - CFA: A new center at the US CDC focused on building response-ready modeling tools\n\n\n\n\nJul 5, 2023\n\n\nJames Hay - The most important operator in infectious disease modeling, and how to use it with biomarker data\n\n\n\n\nSep 6, 2023\n\n\nSang Woo Park - Generation and serial intervals in epidemics\n\n\n\n\nOct 4, 2023\n\n\nBilly Quilty - Daily rapid testing in contact tracing for Covid-19: From models to trials to policy in the UK\n\n\n\n\nNov 1, 2023\n\n\nSamuel Brand - Modelling and forecasting Mpox incidence in the United Kingdom using a randomly sized partitioning of the population\n\n\n\n\nDec 6, 2023\n\n\nRebecca Borchering - Informing short term forecasts of categorical trends in confirmed influenza hospital admissions in the US using real-time effective reproduction number estimates\n\n\n\n\nFeb 14, 2024\n\n\nChris Overton - Nowcasting the 2022 Mpox outbreak in England\n\n\n\n\nMar 6, 2024\n\n\nTomás León - CalCAT: Past, Present, and Future for California’s Use of Infectious Disease Modeling in Public Health Response\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "seminars.html#seminar-recordings",
+    "href": "seminars.html#seminar-recordings",
+    "title": "Real-time infectious disease modelling seminars",
+    "section": "Seminar recordings",
+    "text": "Seminar recordings\nWhen possible we record seminars and post the recordings to YouTube. You can find a playlist of all the recordings here."
+  }
+]

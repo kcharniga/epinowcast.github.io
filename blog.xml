@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Epinowcast</title>
+<link>https://epinowcast.org/blog.html</link>
+<atom:link href="https://epinowcast.org/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Epinowcast community site</description>
+<image>
+<url>https://epinowcast.org/images/logo.png</url>
+<title>Epinowcast</title>
+<link>https://epinowcast.org/blog.html</link>
+<height>167</height>
+<width>144</width>
+</image>
+<generator>quarto-1.4.551</generator>
+<lastBuildDate>Sun, 18 Jun 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic</title>
+  <link>https://epinowcast.org/posts/2023-06-18-improving-modelling-for-epidemic-responses/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>This blog post reproduces <a href="summary-improving-modelling-for-epidemic-responses.pdf">an executive summary</a> written by the authors of <a href="https://doi.org/10.1101/2023.06.12.544667">“Improving modelling for epidemic responses: reflections from members of the UK infectious disease modelling community on their experiences during the COVID-19 pandemic”</a> which was sent to funding organisations, University executives, and senior members of Public Health organsiations.</em></p>
+<section id="authors" class="level2">
+<h2 class="anchored" data-anchor-id="authors">Authors</h2>
+<p>Katharine Sherratt* (1), Anna C. Carnegie* (1), Adam Kucharski (1), Anne Cori (2), Carl A. B. Pearson (1, 3), Christopher I. Jarvis (1), Christopher Overton (4, 5, 6), Dale Weston (7), Edward M. Hill (8, 9), Edward Knock (2), Elizabeth Fearon (10), Emily Nightingale (1), Joel Hellewell (11), W. John Edmunds (1), Julián Villabona Arenas (1), Kiesha Prem (1, 12), Li Pi (13), Marc Baguelin (1, 2), Michelle Kendall (8), Neil Ferguson (2), Nicholas Davies (1), Rosalind M. Eggo (1), Sabine van Elsland (2), Timothy Russell (1, 11), Sebastian Funk (1), Yang Liu (1), Sam Abbott (1)</p>
+<p><em>* contributed equally</em></p>
+<ol type="1">
+<li>Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene &amp; Tropical Medicine, London, UK</li>
+<li>MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK</li>
+<li>South African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA), Stellenbosch University, Stellenbosch, South Africa</li>
+<li>All Hazards Intelligence, Data Analytics and Surveillance, UK Health Security Agency, London, UK</li>
+<li>Department of Mathematical Sciences, University of Liverpool, Liverpool, UK</li>
+<li>Department of Mathematics, University of Manchester, Manchester, UK</li>
+<li>Emergency Response Department Science &amp; Technology Behavioural Science, UK Health Security Agency, London, UK</li>
+<li>Warwick Mathematics Institute and The Zeeman Institute for Systems Biology &amp; Infectious Disease Epidemiology Research, University of Warwick, Coventry, UK</li>
+<li>Joint UNIversities Pandemic and Epidemiological Research, Multiple, UK</li>
+<li>Institute for Global Health, University College London, London, UK</li>
+<li>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK</li>
+<li>Saw Swee Hock School of Public Health, National University of Singapore, Singapore, Singapore</li>
+<li>Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, University of Oxford, Oxford, UK</li>
+</ol>
+</section>
+<section id="outline" class="level2">
+<h2 class="anchored" data-anchor-id="outline">Outline</h2>
+<p>As members of the infectious disease modelling community, we recognize the role we play in shaping effective epidemic responses. Our experiences throughout the COVID-19 pandemic have highlighted substantial challenges in our field, including psychological pressures, gaps in institutional support, and systemic issues that pervade the academic and research landscape. Motivated by these challenges and committed to improving future response efforts, we, a group of 27 members from the UK infectious disease modelling community, convened for a reflective workshop in March 2023. This summary distils the key issues we identified and proposes strategies that we believe can enhance the effectiveness of our field in future epidemic responses. A full report on our methods and findings, including the anonymised individual feedback from workshop participants that informed our findings, is available.</p>
+</section>
+<section id="discussion-themes" class="level2">
+<h2 class="anchored" data-anchor-id="discussion-themes">Discussion Themes</h2>
+<p>To identify overarching themes, we started with paired discussions, with each participant sharing their personal and professional pandemic experiences for 15 minutes. We then aggregated pairs into groups of increasing size in order to generalise personal experiences into themes. This approach fostered an understanding of the individual experiences that constituted our collective response effort.</p>
+<p>Following these discussions, we collectively identified and categorised emergent issues for epidemic response work into themes. These were:</p>
+<ul>
+<li><strong>Funding and institutional support:</strong> Participants reported insufficient institutional support and contract insecurity due to reliance on external grant funding, impacting both academic and professional services roles. Recognitions, rewards, and access: Current reward metrics were deemed inadequate, with unequal credit attribution and limited access to policy-making spaces.</li>
+<li><strong>Team and work dynamics:</strong> Issues included insufficient capacity, competing demands, barriers to progression, and both positive and negative aspects of collaborative working.</li>
+<li><strong>Non-academic contributions:</strong> The importance of professional services staff and collaboration with public health agency workers were highlighted.</li>
+<li><strong>Personal impacts:</strong> Public recognition led to both increased visibility and challenges; mental ill health and burnout were prevalent; balancing work with personal commitments was difficult for many.</li>
+</ul>
+<p>We recognise that many of these issues impact those in our field outside of an epidemic response but believe that they are a particular issue for work of this kind. We also acknowledge that the COVID-19 pandemic has engendered widespread hardship, stress, and ill health throughout various populations, and it is crucial to reflect on and address these profound impacts across all strata of society, not just in our community.</p>
+</section>
+<section id="priority-recommendations" class="level2">
+<h2 class="anchored" data-anchor-id="priority-recommendations">Priority recommendations</h2>
+<p>The workshop proposed the following priority recommendations to improve support and sustainability for future epidemic response work:</p>
+<ol type="1">
+<li><p><strong>Acknowledge and reward impactful response work at institution, funder, and research community levels.</strong> For example, refining impact measures to credit all forms of output produced during, and required for, response work; institutions could incorporate response-driven work into criteria for doctoral theses and promotion.</p></li>
+<li><p><strong>Encourage routine interaction between academia and public health agencies, including consistently reviewing the appropriate allocation of epidemic response tasks.</strong> One potential solution is creating sustainable dual positions recruiting from both sectors.</p></li>
+<li><p><strong>Ensure response teams are well-staffed, well-resourced, stable, and provided psychological support.</strong> This approach reduces dependence on key individuals. One approach is to establish sustainable team-building and training programmes during non-response periods.</p></li>
+<li><p><strong>Increase the transparency of the evidence pathway from scientists to decision-makers.</strong> This makes it easier for those across the scientific community to contribute as well as making the evidence base for decisions clearer to the general public. This could be achieved by standardising rapid open access to the minutes of scientific advisory meetings.</p></li>
+<li><p><strong>Implement best practices for a sustainable work environment.</strong> Employers and team leads can promote leave-taking and respecting work hours, clarify communication about processes and rewards across career stages, prepare for, and standardise, the onboarding of new team members, and integrate support roles.</p></li>
+</ol>
+<p>Achieving these changes necessitates investment from governments, funding bodies, and institutions. Teams may need to redefine their working methods to place greater emphasis on well-being, training, and career development. While localised initiatives require time investment from those leading them, they must be supported to foster a healthier and more sustainable environment for future epidemic response work.</p>
+<p>As it stands, future epidemic responses are likely to raise similar challenges to those we have identified here, including reliance on a select number of individuals, excessive workloads and the exacerbation of systemic inequalities. It is critical we act outside of response contexts, for example by implementing the recommendations we have outlined, to mitigate these issues and respond more effectively in future.</p>
+</section>
+<section id="strengths-of-these-themes-recommendations" class="level2">
+<h2 class="anchored" data-anchor-id="strengths-of-these-themes-recommendations">Strengths of these themes &amp; recommendations</h2>
+<ul>
+<li>The insights are deeply rooted in the experiences of the UK modelling community, providing authentic, community-driven perspectives.</li>
+<li>The workshop included participants from various career stages and perspectives, bolstering its diversity of views.</li>
+<li>An external facilitator and prior community input ensured a safe and relevant discussion environment.</li>
+</ul>
+</section>
+<section id="limitations-of-these-themes-recommendations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations-of-these-themes-recommendations">Limitations of these themes &amp; recommendations</h2>
+<ul>
+<li>Participant representation was restricted due to the one-day workshop format and limitations on who could attend in person.</li>
+<li>Attendees were predominantly from London and South East of England, potentially due to restricted travel support.</li>
+<li>Despite efforts, few individuals who left the infectious disease modelling field were present, possibly omitting crucial perspectives.</li>
+<li>Consequently, the findings may not fully represent the breadth of experiences, especially the most challenging ones, and could be more moderate than if a wider range of participants attended.</li>
+<li>Therefore, these insights should be considered as a summary of a small group’s experiences and opinions, acknowledging potential variations across different locations and groups. Further investigations in other locations are recommended to broaden the scope of findings.</li>
+</ul>
+</section>
+<section id="acknowledgements" class="level2">
+<h2 class="anchored" data-anchor-id="acknowledgements">Acknowledgements</h2>
+<p>We wish to acknowledge the support of the following individuals in the development of this project: Rosanna Barnard, Ciara Dangerfield, Dale Weston, Anne Cori, Joel Hellewell, Charlotte Hall, Rosalind Eggo, Stefan Flasche, Sebastian Funk, Mark Jit, Graham Medley, and external facilitator, Janice McNamara.</p>
+<p>We also wish to thank everyone who so graciously shared their experiences at this event and those that completed the online survey.</p>
+</section>
+<section id="funding" class="level2">
+<h2 class="anchored" data-anchor-id="funding">Funding</h2>
+<p>This project received funding from: The LSHTM COVID-19 response fund, the National Institute for Health and Care Research (NIHR) Health Protection Research Unit in Modelling and Health Economics (grant code NIHR200908), LSHTM’s Department of Infectious Disease Epidemiology, Professor John Edmunds, and The Centre for Mathematical Modelling of Infectious Diseases (CMMID) at LSHTM. Disclaimer: “The views expressed are those of the author(s) and not necessarily those of the NIHR, UK Health Security Agency or the Department of Health and Social Care.</p>
+<p>KS, SA, SF funded by Wellcome Trust (grant number 200901/Z/16/Z). MK funded by NIHR, HPRU in Genomics and Enabling Data (grant number NIHR200892). ND funded by National Institute for Health Research (NIHR) Health Protection Research Unit in Modelling and Health Economics (grant code NIHR200908). SvE funded by MRC Centre for Global Infectious Disease Analysis (reference MR/R015600/1), jointly funded by the UK Medical Research Council (MRC) and the UK Foreign, Commonwealth &amp; Development Office (FCDO), under the MRC/FCDO Concordat agreement and the EDCTP2 programme supported by the European Union.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>paper-summary</category>
+  <category>epidemic-prepardnesss</category>
+  <category>evaluation</category>
+  <guid>https://epinowcast.org/posts/2023-06-18-improving-modelling-for-epidemic-responses/</guid>
+  <pubDate>Sun, 18 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://epinowcast.org/posts/2023-06-18-improving-modelling-for-epidemic-responses/summary.png" medium="image" type="image/png" height="71" width="144"/>
+</item>
+<item>
+  <title>Lessons learned from collaborative nowcasting of COVID-19 hospitalizations in Germany</title>
+  <dc:creator>Johannes Bracher</dc:creator>
+  <link>https://epinowcast.org/posts/2023-05-08-collab-nowcasting-covid19-germany/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>This blog post is based on a <a href="https://www.medrxiv.org/content/10.1101/2023.04.17.23288668v1">preprint</a> we recently posted with a large authorship group. I will summarize my main takeaways from the project. The figures used here are all by <a href="https://twitter.com/DanielWolffram">Daniel Wolffram</a>, the first author of the preprint (and a ggplot wizard). The paper is in turn based on a <a href="https://covid19nowcasthub.de/">collaborative nowcasting platform</a> we have been running since late 2021.</em></p>
+<section id="the-indicator-and-the-challenge" class="level2">
+<h2 class="anchored" data-anchor-id="the-indicator-and-the-challenge">The indicator and the challenge</h2>
+<p>During the COVID-19 pandemic, epidemiological indicators have become part of our everyday life. Early on, deaths were the only reliable measure in many places. Then, for a long time, we were staring at case numbers, and later measures of healthcare burden became central. In Germany, where I work, the <strong>7-day COVID-19 hospitalization incidence</strong> became a central indicator in Fall 2021 (with thresholds linked to levels of non-pharmaceutical interventions). However, this indicator has its peculiarities and quickly prompted some public debate (see e.g., this <a href="https://www-ndr-de.translate.goog/nachrichten/info/Fragen-und-Antworten-zur-Hospitalisierungsinzidenz,hospitalisierungsinzidenz102.html?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=wapp">automatic translation</a> of a <a href="https://www.ndr.de/nachrichten/info/Fragen-und-Antworten-zur-Hospitalisierungsinzidenz,hospitalisierungsinzidenz102.html">German-language news item</a>). One difficulty (I’ll gloss over a few <a href="https://covid19nowcasthub.de/background.html">other questions</a>) is its timeliness. The issue arises from its very definition: the 7-day hopitalization incidence is (roughly speaking) the number of people who <em>were reported to have a positive COVID-19 test</em> during said 7-day period and <em>later, and not necessarily during the same 7 days</em>, got admitted to hospital. So hospitalizations are counted by when a positive test rather than when the actual hospitalization was reported. This way, in addition to the classical reporting delay, a second delay is baked into the indicator - the time it takes from a positive test to hospitalization. <strong>As a consequence, it can take a really long time until data are finally complete.</strong> Especially recent values are biased downwards and one can easily get the impression of a downward trend where there isn’t actually one. We therefore figured that <strong>statistical nowcasting</strong> - predicting what the numbers will look like once all data are complete - was a really relevant task here.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://epinowcast.org/posts/2023-05-08-collab-nowcasting-covid19-germany/illustration.png" title="The figure shows an overlay of time series as published at different dates. A clear downward dip at the end of each historical time series is visible. Later versions of the time series do not contain this dip at the same time period anymore as data have been revised. In addition, nowcasts are shown which shall correct these reporting artefacts. They mostly agree well with the later updated data versions." class="img-fluid figure-img"></p>
+<figcaption>Illustration of data updates and the nowcasting tasks. Coloured lines show data as available at different point in time. Blue lines and shaded areas show the nowcasts issued in real time. A clear downward dip at the end of each version of the time series is visible, which disappears when data are revised.</figcaption>
+</figure>
+</div>
+</section>
+<section id="the-collaborative-format" class="level2">
+<h2 class="anchored" data-anchor-id="the-collaborative-format">The collaborative format</h2>
+<p>If you are in the epidemic modelling sphere, you may have come across the various <strong><a href="https://covid19forecasthub.org/">COVID-19</a> <a href="https://covid19forecasthub.eu/">Forecast</a> <a href="https://kitmetricslab.github.io/forecasthub/forecast">Hubs</a></strong> which bring together epidemiological predictions from various models, systematically compare them and merge them into so-called ensembles. While one conclusion from these efforts is that <a href="https://forecasters.org/blog/2021/09/28/on-the-predictability-of-covid-19/">predicting COVID-19 is really hard</a>, a more positive finding is that combining different models can somewhat enhance performance (see e.g., <a href="https://doi.org/10.1073/pnas.2113561119">here</a> and <a href="https://doi.org/10.7554/eLife.81916">here</a>). When the political decision was taken to make the 7-day hospitalization incidence the main pandemic indicator in Germany, we figured it was an interesting setting to <strong>apply this approach to nowcasting</strong>. Specifically, we had two goals:</p>
+<ul>
+<li>While Robert Koch Institute, the German Federal Public Health Institute, was showing figures of nowcasts in its <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2021-11-25.pdf?__blob=publicationFile">weekly reports</a>, no <strong>operational and re-usable nowcasts</strong> were available to be displayed along with real-time data.</li>
+<li>When first looking into the problem, we realized that there was a large number of nowcasting methods, but little was known about their actual <strong>real-time behaviour</strong> nor their <strong>relative performance</strong>. Also, nobody had tried to combine several nowcasting models into an <strong>ensemble nowcast</strong>.</li>
+</ul>
+<p>We therefore reached out to a few people we knew were working on related topics and set up a <a href="https://github.com/KITmetricslab/hospitalization-nowcast-hub/">GitHub repository</a> with pre-processed data as well as a <a href="https://covid19nowcasthub.de/">visualization dashboard</a> to make their contribution as easy as possible. People got on board astonishingly quickly and a few days later we had several nowcasting models up and running, and posted a <a href="https://osf.io/mru75/">study protocol</a> for our methods comparison.</p>
+</section>
+<section id="the-lessons" class="level2">
+<h2 class="anchored" data-anchor-id="the-lessons">The lessons</h2>
+<p>If you are interested in the detailed results our <a href="https://www.medrxiv.org/content/10.1101/2023.04.17.23288668v1">preprint</a> has you covered. I’ll just say a few words about my main learnings:</p>
+<ul>
+<li>Reassuringly, <strong>all models we considered were doing something reasonable</strong> (see figure), and most of the time they were able to give a realistic idea of current trends. Every now and then, nowcasts were also considerably off. Typically, that happened when reporting practices changed, and most models were affected in a similar manner.</li>
+<li>One of the main challenges was to get <strong>weekday effects</strong> under control (there are two of them - one for the date of positive test, one for the date of hospitalization). Our purposefully simple “reference model” KIT does not take this aspect into account and consequently looks like an ill-calibrated cardiogram.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://epinowcast.org/posts/2023-05-08-collab-nowcasting-covid19-germany/zero_day.png" title="For different models, the figure shows an overlay of 'final' data and nowcasts as issued on each day for the same day, i.e., at a horizon of 0 days back. Point nowcasts overall align well with later completed data, but uncertainty intervals are a bit too narrow for most models and do not always cover the corrected values." class="img-fluid figure-img"></p>
+<figcaption>Same-day nowcasts (with a horizon of 0 days) of the 7-day hospitalization incidence as issued on each day of the study period. Nowcasts are shown for the German national level pooled across all age groups.</figcaption>
+</figure>
+</div>
+<ul>
+<li><strong>Uncertainty quantification turned out to be tricky</strong>. Almost none of the models issued prediction intervals reaching nominal coverage levels. One important learning was that purely model-based uncertainty quantification (like your model’s predictive posterior distribution) does not work all that well in practice. Two approaches which looked at errors of past nowcasts fared much better (sort of poor man’s versions of <a href="https://en.wikipedia.org/wiki/Conformal_prediction">conformal prediction</a>).</li>
+<li><strong>Defining a nowcasting target is not as trivial as it seems.</strong> We somewhat naively defined it as “the final version of the time series”, which in practice we assumed would be available 100 days after the last day for which we generated nowcasts. However, it turned out that the data were still changing after these 100 days. Only slightly, but enough to have an impact on results. Looking back, rather than using the data version available on a specified date, a better idea might have been to define the target as all hospitalizations reported with a maximum delay of, say, 40 days.</li>
+<li>As in similar previous projects, <strong>combined emsemble predictions</strong> showed promising results. On our pre-specified original target, they actually came in second and were beaten quite clearly by one of the individual models. That, however, seemed to be due to a peculiar overlay of a few different biases working in different directions (it’s a long discussion, check out the <a href="https://www.medrxiv.org/content/10.1101/2023.04.17.23288668v1">paper</a>). Personally I am optimistic that across different settings there is something to be gained from ensemble nowcasts.</li>
+</ul>
+</section>
+<section id="how-nowcasts-have-been-used" class="level2">
+<h2 class="anchored" data-anchor-id="how-nowcasts-have-been-used">How nowcasts have been used</h2>
+<p>Given the sudden prominence of the 7-day hospitalization incidence in the management of the pandemic in Germany, in fall and winter 2021 there was considerable interest in the nowcasts we made available. Many media outlets are now winding down their <strong>COVID dashboards</strong>, but e.g., at newspaper <a href="https://www.zeit.de/wissen/aktuelle-corona-zahlen-karte-deutschland-landkreise">Die Zeit</a> and public broadcaster <a href="https://www.ndr.de/nachrichten/info/Corona-Zahlen-Arztbesuche-Hospitalisierung-Todesfaelle,corona10702.html">NDR</a>, the nowcasts are still routinely displayed in May 2023. Following some very productive exchange with colleagues from Robert Koch Institute, our platform has also been referred to in their <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenbericht_2023-05-04.pdf?__blob=publicationFile">weekly reports</a> (accompanying their own nowcasts).</p>
+<p>An interesting aspect in the exchange with data journalists was that they were sort of <strong>hesitant to use the ensemble nowcast</strong>. After all, it was based on a difficult-to-understand mix of methods, some of which not yet formally peer-reviewed. Understandably, for them it made sense to have one specific method to point to, published in a journal of known reputation. A positive experience was that at least some media outlets took care to <strong>communicate the uncertainty</strong> associated with nowcasts explicitly.</p>
+</section>
+<section id="the-aftermath" class="level2">
+<h2 class="anchored" data-anchor-id="the-aftermath">The aftermath</h2>
+<p>Our multi-model nowcasting system is still up and running. As it requires close to no human intervention at this stage (apart from fixing occasional data hiccups), we will likely maintain it until the data source is wound down. There are also a few <strong>follow up projects</strong>, like the <a href="https://respinow.de/en/projects/#tp4">RESPINOW project</a> on other relevant respiratory pathogens, and the <a href="https://www.epinowcast.org/">epinowcast</a> community on real-time analysis of infectious disease data (if you are reading this blog post, you likely already know epinowcast, but it’s great and you should definitely check out the ways of <a href="https://www.epinowcast.org/contribute.html">getting involved</a>).</p>
+<p>To conclude I’ll mention that I am currettly <a href="https://www.pse.kit.edu/english/karriere/joboffer.php?id=132323"><strong>hiring for a Research Associate / PhD student position</strong></a> (also check this <a href="https://twitter.com/johannesbracher/status/1650483102634975232">thread</a> on Twitter). Please reach out to me if you are interested in real-time analysis of epidemiological data!</p>
+<p>For a discussion of this work see our community forum (<a href="https://community.epinowcast.org/t/lessons-learned-from-collaborative-nowcasting-of-covid-19-hospitalizations-in-germany/152">here</a>).</p>
+
+
+</section>
+
+ ]]></description>
+  <category>paper-summary</category>
+  <category>nowcasting</category>
+  <category>evaluation</category>
+  <guid>https://epinowcast.org/posts/2023-05-08-collab-nowcasting-covid19-germany/</guid>
+  <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://epinowcast.org/posts/2023-05-08-collab-nowcasting-covid19-germany/illustration.png" medium="image" type="image/png" height="48" width="144"/>
+</item>
+<item>
+  <title>epinowcast 0.2.1</title>
+  <dc:creator>Sam Abbott</dc:creator>
+  <link>https://epinowcast.org/posts/2023-05-02-epinowcast-0.1.2-release/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In this release, we focused on improving the internal code structure, documentation, and development infrastructure of the package to make it easier to maintain and extend functionality in the future. We also fixed a number of bugs and made some minor improvements to the interface. These changes included extending test and documentation coverage across all package functions, improving internal data checking and internalization, and removing some deprecated functions.</p>
+<p>While these changes are not expected to impact most users, we recommend that all users upgrade to this version. We also suggest that users who have fitted models with both random effects and random walks should refit these models and compare the output to previous fits in order to understand the impact of a bug in the specification of these models that was fixed in this release.</p>
+<p>This release lays the groundwork for planned features in <a href="https://github.com/orgs/epinowcast/projects/1"><code>0.3.0</code></a> and <a href="https://github.com/orgs/epinowcast/projects/2"><code>0.4.0</code></a> including: support for non-parametric delays, non-daily data with a non-daily process model (i.e.&nbsp;weekly data with a weekly process model), additional flexibility specifying generation times and latent reporting delays, improved case studies, and adding support for forecasting.</p>
+<p>Full details on the changes in this release can be found in the <a href="https://package.epinowcast.org/news/index.html">package release notes</a> or in the <a href="https://github.com/epinowcast/epinowcast/releases/tag/v0.2.1">GitHub release notes</a>. To see the development timeline of this release see the <a href="https://github.com/orgs/epinowcast/projects/3"><code>0.2.1</code> project</a>.</p>
+<section id="contributors" class="level2">
+<h2 class="anchored" data-anchor-id="contributors">Contributors</h2>
+<p><span class="citation" data-cites="adrian-lison">@adrian-lison</span>, <span class="citation" data-cites="Bisaloo">@Bisaloo</span>, <span class="citation" data-cites="pearsonca">@pearsonca</span>, <span class="citation" data-cites="FelixGuenther">@FelixGuenther</span>, <span class="citation" data-cites="Lnrivas">@Lnrivas</span>, <span class="citation" data-cites="seabbs">@seabbs</span>, <span class="citation" data-cites="sbfnk">@sbfnk</span>, and <span class="citation" data-cites="jhellewell14">@jhellewell14</span> made code contributions to this release.</p>
+<p><span class="citation" data-cites="pearsonca">@pearsonca</span>, <span class="citation" data-cites="Bisaloo">@Bisaloo</span>, <span class="citation" data-cites="adrian-lison">@adrian-lison</span>, and <span class="citation" data-cites="seabbs">@seabbs</span> reviewed pull requests for this release.</p>
+<p><span class="citation" data-cites="Gulfa">@Gulfa</span>, <span class="citation" data-cites="WardBrian">@WardBrian</span>, <span class="citation" data-cites="parkws3">@parkws3</span>, <span class="citation" data-cites="adrian-lison">@adrian-lison</span>, <span class="citation" data-cites="Bisaloo">@Bisaloo</span>, <span class="citation" data-cites="pearsonca">@pearsonca</span>, <span class="citation" data-cites="FelixGuenther">@FelixGuenther</span>, <span class="citation" data-cites="Lnrivas">@Lnrivas</span>, <span class="citation" data-cites="seabbs">@seabbs</span>, <span class="citation" data-cites="sbfnk">@sbfnk</span> and <span class="citation" data-cites="jhellewell14">@jhellewell14</span> reported bugs, made suggestions, or contributed to discussions that led to improvements in this release.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>epinowcast</category>
+  <category>releases</category>
+  <category>packages</category>
+  <guid>https://epinowcast.org/posts/2023-05-02-epinowcast-0.1.2-release/</guid>
+  <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://epinowcast.org/posts/2023-05-02-epinowcast-0.1.2-release/release-burn-down.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+</channel>
+</rss>
