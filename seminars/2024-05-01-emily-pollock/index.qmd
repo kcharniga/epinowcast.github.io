@@ -1,0 +1,26 @@
+---
+title: "Emily Pollock - Developing and deploying dynamic sexual network models for outbreak response in the US"
+date: 2024-05-01
+comments: false
+---
+
+On Wednesday the 1st of May at 3pm UK time, Emily Pollock will be talking about CDC's use of network models for outbreak response in the US.
+
+Since May 2022, the United States reported more than 30,000 cases of mpox, largely affecting gay, bisexual, and other men who have sex with men (MSM). Stochastic, temporal, exponential-family random graph models (STERGMs) were among the many tools used by the Centers for Disease Control and Prevention’s emergency response to the outbreak. In this talk, Dr. Pollock will present an overview of the data and methods used, discuss several sets of results and coordinated public health messaging, and reflect on modeling and communication challenges we encountered. She will also discuss ongoing improvements to this modeling framework to improve preparedness in the future, particularly in the face of increasing concerns over documented sexual transmission of clade I mpox in DRC. 
+
+Emily Pollock is a Data Scientist at the Center for Forecasting and Outbreak Analytics at the US CDC. Previously, she was a Prevention Effectiveness Fellow at CDC with the Division of STD Prevention. She was deployed to the 2022 mpox emergency response as part of the Modeling Team. 
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
+
