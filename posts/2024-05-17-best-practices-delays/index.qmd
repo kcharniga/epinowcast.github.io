@@ -20,7 +20,7 @@ Here are four key takeaways:
 •	The epidist R package (https://github.com/epinowcast/epidist) is the only software tool to our knowledge that correctly handles interval censoring, right truncation, and dynamical bias
 •	There is more work to do in improving methods that can robustly handle common biases and making these widely available.
 
-We also recommend reading Park et al. for more technical details about methods.
+We also recommend reading [Park et al.](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1) for more technical details about methods.
 
 Thanks to all our co-authors for sharing their time and wealth of experience to improve the paper.   
 
