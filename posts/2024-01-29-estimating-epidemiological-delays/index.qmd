@@ -10,7 +10,7 @@ author:
     afiliation: London School of Hygiene & Tropical Medicine
     orcid: 0000-0002-3777-1410
 date: 2024-01-29
-image: illustration.png
+image: illustration.jpg
 categories:
   - paper-summary
   - delay-distributions
