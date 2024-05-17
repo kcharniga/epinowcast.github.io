@@ -29,4 +29,7 @@ The manuscript was inspired by another [preprint](https://www.medrxiv.org/conten
 
 - Our preprint is available on [arXiv](https://arxiv.org/abs/2405.08841)
 - We recommend reading [Park et al.](https://www.medrxiv.org/content/10.1101/2024.01.12.24301247v1) for more technical details about methods.
-- There is also a summary post for Park et al. available [here](https://www.epinowcast.org/posts/2024-01-29-estimating-epidemiological-delays/.
+- There is also a summary post for Park et al. available [here](https://www.epinowcast.org/posts/2024-01-29-estimating-epidemiological-delays/).
+
+Thanks to all our co-authors for sharing their time and wealth of experience to improve the paper.   
+
