@@ -37,6 +37,7 @@ Estimating delay distributions is challenging because of the presence of various
 
 - **Dynamical bias**: Dynamical biases describe the effects of an epidemic's current growth or decay rate on the observed delay distributions. When epidemic is growing (decaying), we are more likely to observe shorter (longer) intervals, giving biased estimates. 
 
+[![Illustration of biases in estimating delay distributions (Figure 1 from our preprint)](illustration.jpg)](illustration.jpg)
 
 ## So what did we do?
 
