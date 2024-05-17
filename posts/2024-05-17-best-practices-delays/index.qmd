@@ -4,8 +4,10 @@ author:
   - name: Kelly Charniga
     afiliation: Institut Pasteur
 date: 2024-05-17
+image: delay-flow.png
 categories:
   - paper-summary
+  - delay-distributions
   - epidemiological-parameters
 comments: false
 ---
@@ -21,9 +23,11 @@ The manuscript was inspired by another [preprint](https://www.medrxiv.org/conten
 ## Key takeaways
 
 - A number of items are necessary for understanding the context of delay estimates and should be reported whenever possible to maximize utility, such as study sample size; the epidemic curve; which, if any, control measures are in place, etc.
-- Not adjusting for routinely present bias (such as interval censoring and right truncation) can lead to incorrect estimates of delays, which can have direct implications for public health practice. See the paper for a handy flow chart!
+- Not adjusting for routinely present bias (such as interval censoring and right truncation) can lead to incorrect estimates of delays, which can have direct implications for public health practice. See below and the preprint for a handy flow chart!
 - The [epidist R package](https://github.com/epinowcast/epidist) is the only software tool to our knowledge that correctly handles interval censoring, right truncation, and dynamical bias
 -	There is more work to do in improving methods that can robustly handle common biases and making these widely available.
+
+[![Flow diagram for those with data who need to decide which biases to adjust for](delay-flow.png)](https://arxiv.org/abs/2405.08841)
 
 ## Finding out more
 

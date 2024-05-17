@@ -17,6 +17,7 @@ categories:
   - evaluation
   - package
   - methods
+  - epidemiological-parameters
 comments: false
 ---
 
