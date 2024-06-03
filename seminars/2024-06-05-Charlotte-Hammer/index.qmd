@@ -1,0 +1,25 @@
+---
+title: "Charlotte Hammer - John Snow in a digital world: Field epidemiology training in the 21st century"
+date: 2024-06-05
+comments: false
+---
+
+On Wednesday the 5th of June at 3pm UK time, Dr Charlotte Hammer will talk about field epidemiology and intersections with mathematical modeling.
+
+In recent years, field epidemiologists have embraced rapidly evolving digital tools, data sources and technologies, and collaborated with an ever-growing field of scientific specialisms. The COVID-19 pandemic put field epidemiology under unprecedented demand and scrutiny. In this talk, Dr Hammer will give a personal perspective on how field epidemiologists are trained and how the future of this field can look like, particularly with a focus on collaboration with other key actors for health protection including mathematical modelers. This talk should be of interest both to members of the epinowcast community who are considering applying for field epidemiology training as well as those working with field epidemiologists or planning to. 
+
+Dr Hammer is the Everitt Butterfield Research Fellow in Biomedical Sciences at Downing College, University of Cambridge and a member of the Cambridge Infectious Diseases (CID) Steering Committee. In May she has taken on interim duties as senior epidemiologist and coordinator of the German Field Epidemiology Training Programme at the Robert Koch-Institute. Charlotte specialises in the epidemiology of emerging and high consequence infectious diseases, covering aspects such as risk factor identification, development of novel surveillance and outbreak response systems, and global health security. Her primary research interests are outbreaks at the human-animal-environment interface using a One Health lens, and the epidemiology of infectious diseases in conflict zones and other complex and fragile settings. Having worked for and across academia, national and international health emergency response, policy and the UN system, she has been involved in the COVID-19 response in the European Union and Papua New Guinea and in the Ebola response in the Democratic Republic of the Congo. In addition to her academic work, she maintains a strong involvement in public health emergency response and epidemic intelligence through deployments with organisations such as the World Health Organization and the Global Outbreak Alert and Response Network (for which she is also the CID Focal Point) as well as through capacity building for field epidemiology training programs across the world. 
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
