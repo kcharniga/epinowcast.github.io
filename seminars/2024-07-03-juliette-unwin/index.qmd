@@ -1,0 +1,25 @@
+---
+title: "Juliette (Ettie) Unwin - Using Hawkes Processes to model infectious disease transmission"
+date: 2024-07-03
+comments: false
+---
+
+On Wednesday the 3rd of July at 3pm UK time, Dr Juliette Unwin will talk about using Hawkes Processes to model malaria in low transmission settings.
+
+Globally there were an estimated 249 million malaria cases and 608,000 malaria deaths in 85 countries during 2022, predominantly in Africa, with 34 countries reporting fewer than 1000 indigenous cases of the disease. Modelling malaria in low transmission settings is challenging because prohibitively large sample sizes are needed to use traditional gold standard measures such as parasite prevalence. Instead, Dr Unwin proposes using Hawkes Processes to capture malaria disease dynamics in countries that are close to eliminating malaria. The model combines malaria specific information, such as the shape of the infectious profile, within a rigorous statistical framework to fit incidence data. She will discuss how it is possible to accurately recreate the case counts over time with our Hawkes Process method. She will also discuss how it is possible to estimate the proportion of cases that are imported without using this information in the fitting process.
+
+Dr Unwin is a lecturer in Statistical Science at the University of Bristol.  Her research focuses on developing novel methods for infectious disease response and has worked on diseases such as malaria, Ebola and COVID-19.  In particular she is interested in developing efficient spatio-temporal methods.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
