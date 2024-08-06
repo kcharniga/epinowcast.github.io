@@ -1,0 +1,25 @@
+---
+title: "Kaitlyn Johnson - Wastewater modeling to forecast hospital admissions in the US: Challenges and opportunities" 
+date: 2024-08-07
+comments: false
+---
+
+On Wednesday the 7th of August at 3pm UK time, Dr Kaitlyn Johnson will discuss the challenges and opportunities in developing models and software tools that incorporate data on viral concentrations in wastewater to forecast hospital admissions in the US.
+
+While wastewater-based epidemiology presents a tremendous opportunity for passive, population-level infectious disease surveillance, the complexity of the wastewater data generating process and its relation with tradition epidemiological indicators makes integration into real-time infectious disease modeling frameworks challenging. In this talk, we present a model that jointly infers latent infection dynamics from wastewater data from multiple subpopulations and hospital admissions from a global population, in this case from individual US states. Building off of the semi-mechanistic renewal approach in `EpiNow2`, we add a wastewater data generating component and estimate the effective reproductive number at the global and local level using a hierarchical partial pooling model. We describe preliminary results evaluating the forecast performance of the model both retrospectively and in real-time. Lastly, we will describe the challenges and tradeoffs between developing pipelines for production for a specific problem versus developing generalizable tooling, specifically in the field of wastewater-based epidemiology where data structures and systems vary greatly.
+
+Kaitlyn Johnson is currently a data scientist at the Center for Forecasting and Outbreak Analytics at the US CDC. Prior to joining CDC, Kaitlyn worked as a data analyst at the Rockefeller Foundation, where she mainly focused on developing publicly available decision-support tools to estimate SARS-CoV-2 variant prevalence dynamics globally. Prior to joining Rockefeller, she worked as a post-doc at the UT COVID-19 Modeling Consortium led by Lauren Meyers at UT Austin. Here she worked closely with the university and the city of Austin to provide model-based analyses to inform COVID-19 policies and resource allocation. Her broader interests include: real-time outbreak analysis, open source tool development, wastewater-based epidemiology, partial pooling/hierarchical modeling, integration of complex and disparate data sources.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
