@@ -1,0 +1,27 @@
+---
+title: "Kris Parag - Closing the feedback loop between infectious disease dynamics and real-time interventions" 
+date: 2024-09-04
+comments: false
+---
+
+On Wednesday the 4th of September at 3pm UK time, Dr Kris Parag will discuss how feedback control theory can improve both the understanding and suppression of epidemics in real time.
+
+Reproduction numbers, which define the magnitude at which infections multiply, are conventionally used to assess how difficult it is to control an infectious disease. By reframing the multiplicative process of transmission as a positive feedback loop, Dr. Parag will demonstrate that this approach is idealistic and propose two new controllability margins that better reflect the effort needed to control an epidemic. The second part of the talk will be about interventions. Deciding when to impose or relax a non-pharmaceutical intervention is an enduring problem that is aggravated by the limitations and uncertainties innate to practical surveillance data. By recognising the negative feedback loop between a chosen intervention and future (noisy) disease dynamics, Dr. Parag will present an optimal control algorithm to balance the risks of inaction with the costs of intervention.
+
+Dr. Parag is an advanced research fellow at Imperial College London and honorary lecturer at the University of Bristol. He leads the EpiEng group, which aims to improve understanding of Epidemiological processes by adapting concepts from Engineering disciplines. This merges his training in control (PhD, Cambridge) and aerospace (MEng, Sheffield) engineering with his experience across phylodynamics (postdoc, Oxford) and epidemiology (research fellow, Imperial). The current goal of his group is to leverage feedback control methodology to design more effective real-time strategies for outbreak surveillance and suppression.
+
+To read more about his work, see [this paper](https://www.medrxiv.org/content/10.1101/2023.10.10.23296471v2) and [this preprint](https://www.medrxiv.org/content/10.1101/2024.05.24.24307878v2).
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
