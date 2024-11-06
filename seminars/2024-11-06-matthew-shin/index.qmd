@@ -1,6 +1,6 @@
 ---
 title: "Matthew Shin - Quantifying regularity of COVID-19 epidemic waves in France to assess predictability of future waves and improve forecasting" 
-date: 2024-09-04
+date: 2024-11-06
 comments: false
 ---
 
