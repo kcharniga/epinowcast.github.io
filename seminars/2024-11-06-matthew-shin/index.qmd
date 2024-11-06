@@ -1,0 +1,27 @@
+---
+title: "Matthew Shin - Quantifying regularity of COVID-19 epidemic waves in France to assess predictability of future waves and improve forecasting" 
+date: 2024-09-04
+comments: false
+---
+
+On Wednesday the 6th of November at 3pm UK time, Dr Matthew Shin will discuss quantifying regularity of COVID-19 epidemic waves in France to assess predictability of future waves and improve forecasting.
+
+Forecasting healthcare needs during the first two years of the COVID-19 pandemic was difficult because case dynamics changed rapidly with the implementation and relaxation of non-pharmaceutical measures, behavioural changes, vaccination and emerging variants, limiting forecasting horizon to a couple of weeks or even days. As COVID-19 moved to endemicity, we hypothesised that the predictability of future COVID-19 epidemics would depend on the regularity of dynamics in successive epidemic waves. We aimed to model and compare epidemic growth rate dynamics in the waves observed since March 2022 (after the dominance of the Omicron variant) and to use this model to improve COVID-19 forecast horizons by incorporating information from completed waves in the prediction.
+We propose a 4-phase, piecewise-sinusoidal model that approximates the growth rate trajectory of any individual wave of COVID-19-related emergency room (ER) visits in metropolitan France and use the parameters of past approximations to forecast future ER visits. We first estimate the smoothed trendline of ER visits and its associated growth rate curve from the raw time series. Next, we use Markov chain Monte Carlo (MCMC) to fit our model to the growth rate series for L − 1 past waves. Finally, we let these historical model estimates inform the prior distribution of the subsequent, L-th wave against the uncertain real-time growth rate data to compute the ongoing wave’s posterior distribution.
+As our proposed model directly corresponds to the geometry of the trendline for one complete wave, we can easily compute statistics such as the timing and magnitude of the peak. We evaluated our method on two Omicron waves beginning in September (L = 3) and November 2022 (L = 4): The median forecasted timing error was 6.3 ± 6.5 days and 5.7 ± 5.0 days of the true peak date up to the dates of respective peaks. The median forecasted magnitude error was 16 ± 34% and 18 ± 23% from the true peak magnitude up to the dates of respective peaks. Our method could be used to analyse other infectious diseases with semi-regular growth rate patterns such as influenza. For such diseases, characterising the regularity in past waves may be essential for improving the forecasts of epidemic waves.
+
+Matthew Shin is a PhD student at Sorbonne Université, under the supervision of Prof Simon Cauchemez and Dr Juliette Paireau at the Mathematical Modelling of Infectious Diseases Unit at Institut Pasteur in Paris, France. Prior to starting his thesis, he studied applied mathematics at the University of Chicago and worked as a computational scientist at a biomedical start-up. His research interests focus on generalisable mathematical and statistical methods to analyse real-world spatiotemporal data, especially those that fall under the umbrella of ‘scientific machine learning’ (SciML).
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
