@@ -1,0 +1,25 @@
+---
+title: "Spencer Fox - Optimizing disease outbreak forecast ensembles and the use of microHubs" 
+date: 2024-12-04
+comments: false
+---
+
+On Wednesday the 4th of December at 3pm UK time, Dr Spencer Fox will discuss ensemble models for infectious diseases and microHubs.
+
+On the basis of historical influenza and COVID-19 forecasts, we found that more than 3 forecast models are needed to ensure robust ensemble accuracy. Additional models can improve ensemble performance, but with diminishing accuracy returns. This understanding will assist with the design of current and future collaborative infectious disease forecasting efforts. Building on this work, we are pioneering the use of “microHubs” that mimic larger collaborative forecast hubs using a minimal subset of robust forecasting models, dramatically lowering the required resources for forecasting and allowing for organizations to mirror hubs using privately held data. I will discuss our pilot project from the past year for influenza, COVID-19, and RSV healthcare forecasts for the Paraguay Ministerio de Salud Pública y Bienestar Social in collaboration with the CDC, Council for State and Territorial Epidemiologists, and the Pan American Health Organization.
+
+Spencer J. Fox is an Assistant Professor in the department of Epidemiology and Biostatistics and the Institute of Bioinformatics at the University of Georgia. Spencer obtained a BSc in Biology from Rose-Hulman Institute of Technology and a PhD from the Ecology, Evolution, and Behavior program at The University of Texas at Austin. His research focuses on integrating biological, epidemiological, and statistical models to understand and predict outbreak dynamics. Prior to joining the University of Georgia he was the Associate Director of the UT COVID-19 Modeling Consortium.
+
+A recording of this talk will be posted to our [YouTube channel](https://www.youtube.com/channel/UC9qvwwGTudtKnOE-sM1LooQ) and asynchronous discussion will be possible on [our community site](https://community.epinowcast.org/c/meetings/8). You can also ask questions ahead of time and asynchronously there.
+
+## Connect to seminars
+
+You can sign up for our event calendar here: [Google calendar ](https://calendar.google.com/calendar/u/0/r?cid=YTExM2I2ZjVkOTYxODA4ZjA5YjdhODA3ZTIwMzU1Mzk4ODY0Y2NhYjIzOWVkNjAyYzc5ZTkzYWM5OWY0YWQxM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Or here for non-Google calendar users: [ICAL link ](https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics)
+
+Or just join seminars directly here: [https://lshtm.zoom.us/j/8290218109 ](https://lshtm.zoom.us/j/8290218109)
+
+To get an email with details of community meetings you can sign up to our community forum and watch (using the bell on the top right) the [Meeting category](https://community.epinowcast.org/c/meetings/8).
+
+More details about this seminar series are available [here](../../seminars.qmd).
